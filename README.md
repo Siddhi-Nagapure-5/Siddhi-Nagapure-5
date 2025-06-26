@@ -1,3 +1,7 @@
 ## Hi there 👋
 
-![Beige Feminine Personal LinkedIn Banner](https://github.com/user-attachments/assets/08dd839b-615f-4deb-b7ce-cef512c25bba)
+## Siddhi Nagapure 
+
+![Beige Feminine Personal LinkedIn Banner](https://github.com/user-attachments/assets/5ae39883-164c-43dc-88be-fe063cbf02ee)
+![Beige Feminine Personal LinkedIn Banner](https://github.com/user-attachments/assets/5ae39883-164c-43dc-88be-fe063cbf02ee)
+
