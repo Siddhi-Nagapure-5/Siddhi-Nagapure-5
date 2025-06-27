@@ -1,14 +1,8 @@
-## Hi there 👋,  Siddhi Nagapure 
-
-![Profile](https://github.com/user-attachments/assets/b5a069f8-2b46-49b0-9319-3dbe214b8370)
 
 
 
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=siddhinagapure&label=Profile%20views&color=0e75b6&style=flat)
-
-✨ *"Bridging ideas and innovation through code, design, and data."*
 
 ---
 <!-- 🔥 GitHub Banner -->
@@ -24,10 +18,16 @@
 <p align="center"><em>✨ "Turning ideas into reality through code."</em></p>
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=siddhinagapure&label=Profile%20views&color=0e75b6&style=flat)
+
+✨ *"Bridging ideas and innovation through code, design, and data."*
+
+![Profile](https://github.com/user-attachments/assets/b5a069f8-2b46-49b0-9319-3dbe214b8370)
+
 
 ### 💫 About Me
 - 🎓 Third-year B.Tech student | Developer  | Competitive programmer
-- 💻 Building dynamic and scalable applications  
+- 💻 Student at SCTR's Pune Institute of Computer Technology
 - 🌱 Currently exploring **Data Science**
 - 💬 Ask me anything related to the **MERN stack**  
 - 📫 Reach me at: **siddhinagapure155@gmail.com**  
@@ -55,21 +55,16 @@
 
 ### 🛠️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,java,git,github,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,java,git,github,html,css,ml,ai" />
 </p>
 
 ---
 
 ### 💼 Featured Projects
 
-\
+
 ---
 
-### 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Siddhi-Nagapure-5&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhi-Nagapure-5&layout=compact&theme=radical" alt="Top Languages" width="42%" />
-</div>
 
 ---
 
