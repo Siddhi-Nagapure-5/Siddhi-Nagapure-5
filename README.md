@@ -8,10 +8,6 @@
 <h3 align="center">🚀 Developer | ML Enthusiast | Competitive Programmer</h3>
 <p align="center">
  ![Profile Views](https://komarev.com/ghpvc/?username=siddhinagapure&label=Profile%20views&color=0e75b6&style=flat)
-
-
-![Profile](https://github.com/user-attachments/assets/b5a069f8-2b46-49b0-9319-3dbe214b8370)
-
 ---
 
 </p>
