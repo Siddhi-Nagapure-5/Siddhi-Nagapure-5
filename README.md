@@ -23,7 +23,7 @@
 - 🌱 Currently exploring **Data Science**
 - 💬 Ask me anything related to the **MERN stack**  
 - 📫 Reach me at: **siddhinagapure155@gmail.com**  
-- 🧠 Lifelong learner and problem solver
+- 🧠 Passionate Learner and problem solver
 
 ---
 
@@ -49,13 +49,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,java,git,github,html,css,ml,ai" />
 </p>
-
----
-
-### 💼 Featured Projects
-
-
----
 
 
 ---
