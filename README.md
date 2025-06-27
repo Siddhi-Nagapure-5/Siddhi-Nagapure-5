@@ -7,9 +7,7 @@
 <h3 align="center">🚀 Software Engineer</h3>
 <h3 align="center">🚀 Developer | ML Enthusiast | Competitive Programmer</h3>
 <p align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=Siddhi-Nagapure-5&label=Profile%20views&color=0e75b6&style=flat)
----
-
+  <img src="https://komarev.com/ghpvc/?username=Siddhi-Nagapure-5&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <p align="center"><em>
