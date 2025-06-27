@@ -7,17 +7,17 @@
 <h3 align="center">🚀 Software Engineer</h3>
 <h3 align="center">🚀 Developer | ML Enthusiast | Competitive Programmer</h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Siddhi-Nagapure-5&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+ ![Profile Views](https://komarev.com/ghpvc/?username=siddhinagapure&label=Profile%20views&color=0e75b6&style=flat)
+
+
+![Profile](https://github.com/user-attachments/assets/b5a069f8-2b46-49b0-9319-3dbe214b8370)
+
 </p>
 
 <p align="center"><em>
 ✨ *"Bridging ideas and innovation through code, design, and data."*</em></p>
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=siddhinagapure&label=Profile%20views&color=0e75b6&style=flat)
-
-
-![Profile](https://github.com/user-attachments/assets/b5a069f8-2b46-49b0-9319-3dbe214b8370)
 
 
 ### 💫 About Me
