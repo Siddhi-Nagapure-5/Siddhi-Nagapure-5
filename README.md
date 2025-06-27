@@ -13,6 +13,8 @@
 <p align="center"><em>
 ✨ *"Bridging ideas and innovation through code, design, and data."*</em></p>
 
+---
+![Uploading Profile.png…]()
 
 
 ### 💫 About Me
