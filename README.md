@@ -2,67 +2,84 @@
 
 ![Profile](https://github.com/user-attachments/assets/b5a069f8-2b46-49b0-9319-3dbe214b8370)
 
-# 👋 Hey there, I'm Siddhi Nagapure
 
-🚀 Developer | AI Explorer | Creative Technologist
+
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=siddhinagapure&label=Profile%20views&color=0e75b6&style=flat)
 
 ✨ *"Bridging ideas and innovation through code, design, and data."*
 
 ---
+<!-- 🔥 GitHub Banner -->
 
-## 💫 About Me
 
-🎓 Final-year B.Tech student passionate about merging development with real-world problem solving  
-💻 Building intuitive full-stack web applications, intelligent AI models, and elegant UI/UX experiences  
-🌱 Currently diving deep into **Data Science**  
-💬 Talk to me about the MERN Stack, AI in healthcare, UI design, or deployment strategies  
-📫 Reach me at: **(your email here)**  
-🧠 I believe in learning by building — every line of code should create impact
-
----
-
-## 🌐 Connect with Me
-
-<!-- Icons only, links to be added later -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]()  
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=HackerRank&logoColor=white)]()  
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=LeetCode)]()  
-[![GFG](https://img.shields.io/badge/GeeksforGeeks-0F9D58?logo=GeeksforGeeks&logoColor=white)]()
-
----
-
-## 🛠️ Tech Stack
-
-- **Frontend**: React.js, HTML5, CSS3, Tailwind CSS, Framer Motion, JavaScript  
-- **Backend**: Node.js, Express.js, Flask  
-- **Database**: MongoDB, Firebase  
-- **AI/ML**: Python, Pandas, Scikit-learn, TensorFlow, OpenCV  
-- **Tools**: Git & GitHub, Postman, VS Code, Canva, Figma  
-- **Extras**: JWT, Redux Toolkit, REST APIs, Responsive Design, Deployment (Vercel, Render, etc.)
-
----
-
-## 💼 Featured Projects
-
-_Coming soon..._  
-💡 (You can list up to 3–4 projects here with titles, descriptions, and tech stacks)
-
----
-
-## 📈 GitHub Stats
-
+<h1 align="center">👋 Hi there, I'm <span style="color:#00ADB5;">Siddhi Nagapure</span></h1>
+<h3 align="center">🚀 Software Engineer</h3>
+🚀 Developer | AI Explorer | Creative Technologist
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siddhinagapure&show_icons=true&theme=react" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhinagapure&layout=compact&theme=react" alt="Top Languages" />
+  <img src="https://komarev.com/ghpvc/?username=Siddhi-Nagapure-5&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+<p align="center"><em>✨ "Turning ideas into reality through code."</em></p>
+
+---
+
+### 💫 About Me
+- 🎓 Third-year B.Tech student | Developer  | Competitive programmer
+- 💻 Building dynamic and scalable applications  
+- 🌱 Currently exploring **Data Science**
+- 💬 Ask me anything related to the **MERN stack**  
+- 📫 Reach me at: **siddhinagapure155@gmail.com**  
+- 🧠 Lifelong learner and problem solver
+
+---
+
+### 🌐 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/Siddhi-nagapure-achievement" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="LinkedIn" />
+  </a>
+  <a href="https://www.hackerrank.com/shalinikatore25" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/36/null/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-green-tal-revivo.png" height="30" alt="HackerRank" />
+  </a>
+  <a href="https://www.leetcode.com/achievement.50" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="30" alt="LeetCode" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/shalinikvprn" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="30" alt="GFG" />
+  </a>
 </p>
 
 ---
 
-## 🌟 Let's Collaborate!
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,java,git,github,html,css" />
+</p>
 
-💬 I'm open to internships, collaborations, and meaningful side projects.  
-If you find my work interesting, feel free to ⭐ my repos and connect with me!
+---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=57E6FF&center=true&vCenter=true&width=435&lines=Let's+Build+Something+Amazing!)](https://github.com/siddhinagapure)
+### 💼 Featured Projects
+
+\
+---
+
+### 📈 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Siddhi-Nagapure-5&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhi-Nagapure-5&layout=compact&theme=radical" alt="Top Languages" width="42%" />
+</div>
+
+---
+
+### 🌟 Let's Collaborate!
+> 💬 I'm open to **internships, collaborations, and side projects**.  
+> If you like my work, feel free to ⭐ some repos or connect with me!
+
+---
+
+<!-- ✨ Typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&width=500&lines=Happy+Coding!;Let's+Build+Together!;Thank+You+for+Visiting+💙" alt="Typing SVG" />
+</p>
