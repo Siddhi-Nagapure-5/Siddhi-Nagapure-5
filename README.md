@@ -12,12 +12,13 @@
 
 ![Profile](https://github.com/user-attachments/assets/b5a069f8-2b46-49b0-9319-3dbe214b8370)
 
+---
+
 </p>
 
 <p align="center"><em>
 ✨ *"Bridging ideas and innovation through code, design, and data."*</em></p>
 
----
 
 
 ### 💫 About Me
