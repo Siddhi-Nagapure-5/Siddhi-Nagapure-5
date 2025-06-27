@@ -1,26 +1,21 @@
 
-
-
-
-
-
 ---
 <!-- 🔥 GitHub Banner -->
 
 
 <h1 align="center">👋 Hi there, I'm <span style="color:#00ADB5;">Siddhi Nagapure</span></h1>
 <h3 align="center">🚀 Software Engineer</h3>
-🚀 Developer | AI Explorer | Creative Technologist
+<h3 align="center">🚀 Developer | AI Explorer | Creative Technologist</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Siddhi-Nagapure-5&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<p align="center"><em>✨ "Turning ideas into reality through code."</em></p>
+<p align="center"><em>
+✨ *"Bridging ideas and innovation through code, design, and data."*</em></p>
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=siddhinagapure&label=Profile%20views&color=0e75b6&style=flat)
 
-✨ *"Bridging ideas and innovation through code, design, and data."*
 
 ![Profile](https://github.com/user-attachments/assets/b5a069f8-2b46-49b0-9319-3dbe214b8370)
 
