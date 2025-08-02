@@ -29,16 +29,16 @@
 ### 🌐 Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/Siddhi-nagapure-achievement" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="LinkedIn" />
   </a>
  <a href="https://instagram.com/Siddhi-nagapure-achievement" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="30" alt="Instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram" height="35" alt="Instagram" />
   </a>
   <a href="https://www.leetcode.com/achievement.50" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="30" alt="LeetCode" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="35" alt="LeetCode" />
   </a>
  <a href="https://x.com/achievement.29" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="30" alt="Twitter" />
+    <img src="https://skillicons.dev/icons?i=twitter" height="35" alt="Twitter" />
   </a>
 </p>
 
