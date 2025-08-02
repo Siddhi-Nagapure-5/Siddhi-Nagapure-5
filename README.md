@@ -66,7 +66,7 @@
 | `🎮 Neuronix` | Detects cheating and anomalies in real-time online gaming using ML-based behavioral analysis | [🔗 View Repo](https://github.com/Siddhi-Nagapure-5/Neuronix) |
 
 ---
-
+---
 
 ### 🌟 Let's Collaborate!
 > 💬 I'm open to **internships, collaborations, and side projects**.  
