@@ -36,7 +36,7 @@
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
   <a href="https://www.leetcode.com/achievement.50" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"  alt="LeetCode" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"  height="40"alt="LeetCode" />
   </a>
  <a href="https://x.com/achievement.29" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter"  alt="Twitter" />
