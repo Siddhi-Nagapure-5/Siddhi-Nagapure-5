@@ -31,14 +31,14 @@
   <a href="https://linkedin.com/in/Siddhi-nagapure-achievement" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="LinkedIn" />
   </a>
-  <a href="https://www.hackerrank.com/shalinikatore25" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/36/null/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-green-tal-revivo.png" height="30" alt="HackerRank" />
+ <a href="https://instagram.com/Siddhi-nagapure-achievement" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="30" alt="Instagram" />
   </a>
   <a href="https://www.leetcode.com/achievement.50" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="30" alt="LeetCode" />
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/shalinikvprn" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="30" alt="GFG" />
+ <a href="https://x.com/achievement.29" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="30" alt="Twitter" />
   </a>
 </p>
 
