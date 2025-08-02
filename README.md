@@ -33,18 +33,18 @@
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
  <a href="https://instagram.com/Siddhi-nagapure-achievement" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="35" alt="Instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
   <a href="https://www.leetcode.com/achievement.50" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="35" alt="LeetCode" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"  alt="LeetCode" />
   </a>
  <a href="https://x.com/achievement.29" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="35" alt="Twitter" />
+    <img src="https://skillicons.dev/icons?i=twitter"  alt="Twitter" />
   </a>
 </p>
+
+
 ---
-
-
 ### 🛠️ Tech Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,java,git,github,html,css,ai,aws,docker,flask,django,nextjs,postman,tailwind,bootstrap,materialui,firebase,supabase,flutter,dart,python,java,cpp,c,vercel" />
