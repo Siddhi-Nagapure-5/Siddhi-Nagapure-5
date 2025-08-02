@@ -27,6 +27,7 @@
 ---
 
 ### 🌐 Connect with Me
+---
 <p align="left">
   <a href="https://linkedin.com/in/Siddhi-nagapure-achievement" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="LinkedIn" />
@@ -41,7 +42,7 @@
     <img src="https://skillicons.dev/icons?i=twitter" height="35" alt="Twitter" />
   </a>
 </p>
-
+---
 ---
 
 ### 🛠️ Tech Stack
