@@ -30,7 +30,7 @@
 ---
 <p align="left">
   <a href="https://linkedin.com/in/Siddhi-nagapure-achievement" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
  <a href="https://instagram.com/Siddhi-nagapure-achievement" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="35" alt="Instagram" />
@@ -43,7 +43,7 @@
   </a>
 </p>
 ---
----
+
 
 ### 🛠️ Tech Stack
 <p align="left">
