@@ -52,6 +52,22 @@
 
 ---
 
+---
+---
+
+### 📌 Featured Projects
+
+> 🚀 Building tools that think, analyze, and empower.
+
+| 🧠 Project | 💡 What it Does | 🔗 Link |
+|-----------|------------------|--------|
+| `🔬 QualiTest` | ML-powered platform to test & monitor the quality of medicines and consumables | [🔗 View Repo](https://github.com/Siddhi-Nagapure-5/qualitest) |
+| `🛰️ AstroScan` | AI-based satellite image segmentation to detect land, vegetation, and water bodies | [🔗 View Repo](https://github.com/Siddhi-Nagapure-5/astroscan) |
+| `🎮 Neuronix` | Detects cheating and anomalies in real-time online gaming using ML-based behavioral analysis | [🔗 View Repo](https://github.com/Siddhi-Nagapure-5/neuronix) |
+
+---
+
+---
 ### 🌟 Let's Collaborate!
 > 💬 I'm open to **internships, collaborations, and side projects**.  
 > If you like my work, feel free to ⭐ some repos or connect with me!
