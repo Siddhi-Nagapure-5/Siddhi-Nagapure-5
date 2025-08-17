@@ -49,9 +49,9 @@
 
 ### Completed projects
 ---
-- ### **💻 Satellite Image Processing & Analysis (with Flask + LLM Bot)**  
-  Built a backend system using Flask for satellite image processing (segmentation + analysis)  
-  and integrated an LLM-powered assistant for interactive insights.  
+- ### **💻 Satellite Image Processing & Analysis (with Image Processing)**  
+   Implemented image preprocessing and segmentation techniques using Python (OpenCV, NumPy, Matplotlib) on Google Colab
+   to analyze satellite images for meaningful insights.
 
 - ### **💻 ISS Tracker**  
   Live satellite tracking web application with real-time position updates and clean UI.  
