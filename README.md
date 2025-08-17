@@ -26,6 +26,18 @@
 
 ---
 
+
+---
+
+## 🌟 Highlights
+
+- 🏆 **Finalist @ Barclays Hack-O-Fire 2025** (ML-based anomaly detection)
+- 👑 **Finalist @ ICPC AlgoQueen 2025** (National-level coding competition for women in tech)
+- 🖥️ **Adobe India Hackathon 2025** – Selected among **4000 teams (from 2 lakh applicants)**, advanced to Backend System round
+- 💻 Strong focus on **AI/ML, MERN stack, NLP, Computer Vision, and Data Structures**
+- 📈 Actively improving through **competitive programming, open-source, and hackathons**
+
+---
 ### 🌐 Connect with Me
 ---
 <p align="left">
