@@ -89,9 +89,9 @@
 
 ---
 ### 🔮 **Vision & Mindset**  
-I strive to build technology that creates real-world impact — from intelligent systems to solutions that improve everyday life.  
-I believe in continuous learning, embracing challenges, and pushing boundaries to grow as both a developer and a leader.  
-Collaboration, creativity, and perseverance define the way I approach problems and opportunities.  
+> I strive to build technology that creates real-world impact — from intelligent systems to solutions that improve everyday life.  
+> I believe in continuous learning, embracing challenges, and pushing boundaries to grow as both a developer and a leader.  
+> Collaboration, creativity, and perseverance define the way I approach problems and opportunities.  
 
 ---
 ---
