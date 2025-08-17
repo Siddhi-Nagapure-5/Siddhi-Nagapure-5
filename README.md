@@ -44,8 +44,20 @@
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,java,git,github,html,css,ai,aws,docker,flask,django,nextjs,postman,tailwind,bootstrap,materialui,firebase,supabase,flutter,dart,python,java,cpp,c,vercel" />
 </p>
 
-
 ---
+
+###Completed projects
+---
+- **Satellite Image Processing & Analysis (with Flask + LLM Bot)**  
+  Built a backend system using Flask for satellite image processing (segmentation + analysis)  
+  and integrated an LLM-powered assistant for interactive insights.  
+
+- **ISS Tracker**  
+  Live satellite tracking web application with real-time position updates and clean UI.  
+
+- **Jobify**  
+  Job application tracking platform built with MERN stack to organize and manage job applications.  
+
 ---
 ### 🚧 Under Development
 - **QualiTest** – AI platform for medicine & consumable testing *(Backend in progress – Flask APIs)*  
