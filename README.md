@@ -47,6 +47,12 @@
 
 ---
 ---
+### 🚧 Under Development
+- **QualiTest** – AI platform for medicine & consumable testing *(Backend in progress – Flask APIs)*  
+- **AstroScan** – Satellite image segmentation & change detection *(Backend development ongoing)*  
+- **AyuMitra** – AI-based disease diagnostic assistant *(Enhancing with ML models + API integration)*  
+---
+---
 ### 🌐 Connect with Me
 
 <p align="left">
