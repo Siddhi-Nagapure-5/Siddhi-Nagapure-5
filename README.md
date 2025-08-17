@@ -18,12 +18,13 @@
 
 ### 💫 About Me
 - 🎓 Third-year B.Tech student | Developer  | Competitive programmer
-- 💻 Student at SCTR's Pune Institute of Computer Technology
-- 🌱 Currently exploring **Data Science**
-- 💬 Ask me anything related to the **MERN stack**  
+- 💻 Student at SCTR's Pune Institute of Computer Technology 
 - 📫 Reach me at: **siddhinagapure155@gmail.com**  
 - 🧠 Passionate Learner and problem solver
-
+- 🚀 Strong interest in **AI, Data Science, and Full-Stack Development**  
+- 🏆 Finalist at **ICPC AlgoQueen 2025**   
+- 💡 Believer in learning by doing and growing through open-source & hackathons
+  
 ---
 
 
@@ -64,6 +65,35 @@
 - **AstroScan** – Satellite image segmentation & change detection *(Backend development ongoing)*  
 - **AyuMitra** – AI-based disease diagnostic assistant *(Enhancing with ML models + API integration)*  
 ---
+
+
+---
+
+### 📌 Featured Projects
+
+> 🚀 Building tools that think, analyze, and empower.
+
+| 🧠 Project | 💡 What it Does | 🔗 Link |
+|-----------|------------------|--------|
+| `🔬 QualiTest` | ML-powered platform to test & monitor the quality of medicines and consumables | [🔗 View Repo](https://github.com/Siddhi-Nagapure-5/qualitest) |
+| `🛰️ Navisat` | AI-based satellite image segmentation to detect land, vegetation, and water bodies | [🔗 View Repo](https://github.com/Siddhi-Nagapure-5/astroscan) |
+| `🎮 Neuronix` | Detects cheating and anomalies in real-time online gaming using ML-based behavioral analysis | [🔗 View Repo](https://github.com/Siddhi-Nagapure-5/Neuronix) |
+
+---
+---
+
+### 🌟 Let's Collaborate!
+> 💬 I'm open to **internships, collaborations, and side projects**.  
+> If you like my work, feel free to ⭐ some repos or connect with me!
+---
+
+---
+🔮 **Vision & Mindset**  
+I strive to build technology that creates real-world impact — from intelligent systems to solutions that improve everyday life.  
+I believe in continuous learning, embracing challenges, and pushing boundaries to grow as both a developer and a leader.  
+Collaboration, creativity, and perseverance define the way I approach problems and opportunities.  
+
+---
 ---
 ### 🌐 Connect with Me
 
@@ -84,28 +114,6 @@
 
 
 ---
-
----
-
-### 📌 Featured Projects
-
-> 🚀 Building tools that think, analyze, and empower.
-
-| 🧠 Project | 💡 What it Does | 🔗 Link |
-|-----------|------------------|--------|
-| `🔬 QualiTest` | ML-powered platform to test & monitor the quality of medicines and consumables | [🔗 View Repo](https://github.com/Siddhi-Nagapure-5/qualitest) |
-| `🛰️ Navisat` | AI-based satellite image segmentation to detect land, vegetation, and water bodies | [🔗 View Repo](https://github.com/Siddhi-Nagapure-5/astroscan) |
-| `🎮 Neuronix` | Detects cheating and anomalies in real-time online gaming using ML-based behavioral analysis | [🔗 View Repo](https://github.com/Siddhi-Nagapure-5/Neuronix) |
-
----
----
-
-### 🌟 Let's Collaborate!
-> 💬 I'm open to **internships, collaborations, and side projects**.  
-> If you like my work, feel free to ⭐ some repos or connect with me!
-
----
-
 <!-- ✨ Typing animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&width=500&lines=Happy+Coding!;Let's+Build+Together!;Thank+You+for+Visiting+💙" alt="Typing SVG" />
