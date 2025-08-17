@@ -38,8 +38,17 @@
 - 📈 Actively improving through **competitive programming, open-source, and hackathons**
 
 ---
-### 🌐 Connect with Me
+
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,java,git,github,html,css,ai,aws,docker,flask,django,nextjs,postman,tailwind,bootstrap,materialui,firebase,supabase,flutter,dart,python,java,cpp,c,vercel" />
+</p>
+
+
 ---
+---
+### 🌐 Connect with Me
+
 <p align="left">
   <a href="https://linkedin.com/in/Siddhi-nagapure-achievement" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
@@ -57,14 +66,6 @@
 
 
 ---
-### 🛠️ Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,java,git,github,html,css,ai,aws,docker,flask,django,nextjs,postman,tailwind,bootstrap,materialui,firebase,supabase,flutter,dart,python,java,cpp,c,vercel" />
-</p>
-
-
----
-
 
 ---
 
