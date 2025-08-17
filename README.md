@@ -46,7 +46,7 @@
 
 ---
 
-###Completed projects
+### Completed projects
 ---
 - **Satellite Image Processing & Analysis (with Flask + LLM Bot)**  
   Built a backend system using Flask for satellite image processing (segmentation + analysis)  
