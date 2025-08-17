@@ -49,14 +49,14 @@
 
 ### Completed projects
 ---
-- **Satellite Image Processing & Analysis (with Flask + LLM Bot)**  
+- ### **💻 Satellite Image Processing & Analysis (with Flask + LLM Bot)**  
   Built a backend system using Flask for satellite image processing (segmentation + analysis)  
   and integrated an LLM-powered assistant for interactive insights.  
 
-- **ISS Tracker**  
+- ### **💻 ISS Tracker**  
   Live satellite tracking web application with real-time position updates and clean UI.  
 
-- **Jobify**  
+- ### **💻 Jobify**  
   Job application tracking platform built with MERN stack to organize and manage job applications.  
 
 ---
@@ -88,7 +88,7 @@
 ---
 
 ---
-🔮 **Vision & Mindset**  
+### 🔮 **Vision & Mindset**  
 I strive to build technology that creates real-world impact — from intelligent systems to solutions that improve everyday life.  
 I believe in continuous learning, embracing challenges, and pushing boundaries to grow as both a developer and a leader.  
 Collaboration, creativity, and perseverance define the way I approach problems and opportunities.  
