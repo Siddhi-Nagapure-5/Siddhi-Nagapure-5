@@ -14,6 +14,7 @@
 ✨ Bridging ideas and innovation through code, design, and data.</b></p>
 
 ![Beige Feminine Personal LinkedIn Banner](https://github.com/user-attachments/assets/c34b8186-453a-42d7-aaad-411d83e402c6)
+<img width="1584" height="396" alt="Beige Feminine Personal LinkedIn Banner" src="https://github.com/user-attachments/assets/65c9f13e-4a48-4f11-88b1-f156d920cdfc" />
 
 
 ### 💫 About Me
