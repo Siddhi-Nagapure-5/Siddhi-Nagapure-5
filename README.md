@@ -17,20 +17,21 @@
 
 # 👋 About Me
 
+
 🎓 **Third-year B.Tech student** at **SCTR’s Pune Institute of Computer Technology (PICT)**  
 💻 **Developer | Competitive Programmer | AI & Full-Stack Enthusiast**  
-📫 Reach me at: **siddhinagapure155@gmail.com**
+📫 **Email:** siddhinagapure155@gmail.com  
 
-I enjoy building **real-world, problem-driven applications** and learning by doing through projects, hackathons, and competitive programming.
+I enjoy building **real-world, problem-driven applications** and growing through **projects, hackathons, and competitive programming**. I believe in learning by doing and writing clean, scalable code.
 
 ---
 
-## 🏆 Highlights
+## 🏆 Highlights & Achievements
 - 🥇 **ICPC AlgoQueen 2025 – Finalist** (National-level women-in-tech coding contest)
 - 🏅 **Adobe India Hackathon 2025** – Selected in **Top 4,000 teams** from **2,00,000+ applicants**
+- 🚀 **Smart India Hackathon 2025 – Semi-Finalist**, shortlisted from **250+ teams** at PICT
 - 🏆 **Mastercard Code for Change Hackathon 2025 – Finalist**
 - 💡 Strong focus on **AI/ML, Full-Stack Development, and Data Structures**
-- 📈 Actively improving via **competitive programming, open-source, and hackathons**
 
 ---
 
@@ -48,7 +49,7 @@ AI-based document analysis system to extract and rank relevant PDF sections usin
 Optimized for **offline (CPU-only)** execution and shortlisted in **Adobe India Hackathon 2025**.
 
 ### 🔹 Jobify
-A **MERN-stack job hiring platform** enabling recruiters to post jobs and candidates to apply, track applications, and manage hiring workflows.
+A **MERN-stack job hiring platform** that enables recruiters to post jobs and candidates to apply, track applications, and manage hiring workflows.
 
 ### 🔹 SwiftGPT
 An **LLM-powered email automation tool** for intelligent classification, prioritization, and smart follow-ups using GPT-based logic.
@@ -67,7 +68,7 @@ I’m open to:
 - 🛠️ Collaborative projects  
 - 🌱 Open-source contributions  
 
-If you find my work interesting, feel free to ⭐ repositories or connect with me.
+If you find my work interesting, feel free to ⭐ repositories or connect with me!
 
 ---
 
@@ -90,3 +91,4 @@ If you find my work interesting, feel free to ⭐ repositories or connect with m
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00ADB5&center=true&vCenter=true&width=500&lines=Happy+Coding!;Let's+Build+Together!;Thanks+for+visiting+💙" />
 </p>
 
+---
