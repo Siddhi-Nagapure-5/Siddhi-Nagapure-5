@@ -33,14 +33,7 @@ I enjoy building **real-world, problem-driven applications** and growing through
 - 🏆 **Mastercard Code for Change Hackathon 2025 – Finalist**
 - 💡 Strong focus on **AI/ML, Full-Stack Development, and Data Structures**
 
----
-
-## 🛠️ Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,react,nodejs,express,mongodb,nextjs,flask,django,docker,aws,git,github,postman,tailwind,bootstrap,firebase,supabase,vercel" />
-</p>
-
----
+### 🛠️ Tech Stack <p align="left"> <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,java,git,github,html,css,ai,aws,docker,flask,django,nextjs,postman,tailwind,bootstrap,materialui,firebase,supabase,flutter,dart,python,java,cpp,c,vercel" /> </p> ---
 
 ## 🚀 Featured Projects
 
@@ -61,7 +54,7 @@ An **LLM-powered email automation tool** for intelligent classification, priorit
 - **ISS Tracker** – Real-time satellite tracking web application with a clean and intuitive UI.
 
 ---
-
+--- ### 🔮 **Vision & Mindset** > I strive to build technology that creates real-world impact — from intelligent systems to solutions that improve everyday life. > I believe in continuous learning, embracing challenges, and pushing boundaries to grow as both a developer and a leader. > Collaboration, creativity, and perseverance define the way I approach problems and opportunities. ---
 ## 🤝 Let’s Collaborate
 I’m open to:
 - 💼 Internships  
