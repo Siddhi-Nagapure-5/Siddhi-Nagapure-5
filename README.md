@@ -15,92 +15,78 @@
 
 <img width="1584" height="396" alt="Beige Feminine Personal LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/40d5c7b0-191e-48bd-9d55-66a50c5bc1cc" />
 
+# 👋 Hi, I’m Siddhi Nagapure
 
-### 💫 About Me
-- 🎓 Third-year B.Tech student | Developer  | Competitive programmer
-- 💻 Student at SCTR's Pune Institute of Computer Technology 
-- 📫 Reach me at: **siddhinagapure155@gmail.com**  
-- 🧠 Passionate Learner and problem solver
-- 🚀 Strong interest in **AI, Data Science, and Full-Stack Development**  
-- 🏆 Finalist at **ICPC AlgoQueen 2025**   
-- 💡 Believer in learning by doing and growing through open-source & hackathons
-  
----
+🎓 **Third-year B.Tech student** at **SCTR’s Pune Institute of Computer Technology (PICT)**  
+💻 **Developer | Competitive Programmer | AI & Full-Stack Enthusiast**  
+📫 Reach me at: **siddhinagapure155@gmail.com**
 
+I enjoy building **real-world, problem-driven applications** and learning by doing through projects, hackathons, and competitive programming.
 
 ---
 
-## 🌟 Highlights
-
-- 🏆 **Finalist @ Mastercard's < Code For Change > Hackathon 2025** 
-- 👑 **Finalist @ ICPC AlgoQueen 2025** (National-level coding competition for women in tech)
-- 🖥️ **Adobe India Hackathon 2025** – Selected among **4000 teams (from 2 lakh applicants)**, advanced to Backend System round
-- 💻 Strong focus on **AI/ML, MERN stack, NLP, Computer Vision, and Data Structures**
-- 📈 Actively improving through **competitive programming, open-source, and hackathons**
+## 🏆 Highlights
+- 🥇 **ICPC AlgoQueen 2025 – Finalist** (National-level women-in-tech coding contest)
+- 🏅 **Adobe India Hackathon 2025** – Selected in **Top 4,000 teams** from **2,00,000+ applicants**
+- 🏆 **Mastercard Code for Change Hackathon 2025 – Finalist**
+- 💡 Strong focus on **AI/ML, Full-Stack Development, and Data Structures**
+- 📈 Actively improving via **competitive programming, open-source, and hackathons**
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,java,git,github,html,css,ai,aws,docker,flask,django,nextjs,postman,tailwind,bootstrap,materialui,firebase,supabase,flutter,dart,python,java,cpp,c,vercel" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,react,nodejs,express,mongodb,nextjs,flask,django,docker,aws,git,github,postman,tailwind,bootstrap,firebase,supabase,vercel" />
 </p>
 
 ---
 
-### Completed projects
----
-- ### **💻 Satellite Image Processing & Analysis (with Image Processing)**  
-   Implemented image preprocessing and segmentation techniques using Python (OpenCV, NumPy, Matplotlib) on Google Colab
-   to analyze satellite images for meaningful insights.
+## 🚀 Featured Projects
 
-- ### **💻 ISS Tracker**  
-  Live satellite tracking web application with real-time position updates and clean UI.  
+### 🔹 Smart PDF Analyzer
+AI-based document analysis system to extract and rank relevant PDF sections using machine learning techniques.  
+Optimized for **offline (CPU-only)** execution and shortlisted in **Adobe India Hackathon 2025**.
 
-- ### **💻 Jobify**  
-  Job application tracking platform built with MERN stack to organize and manage job applications.  
+### 🔹 Jobify
+A **MERN-stack job hiring platform** enabling recruiters to post jobs and candidates to apply, track applications, and manage hiring workflows.
 
----
----
-
-### 📌 Featured Projects
-
-> 🚀 Building tools that think, analyze, and empower.
+### 🔹 SwiftGPT
+An **LLM-powered email automation tool** for intelligent classification, prioritization, and smart follow-ups using GPT-based logic.
 
 ---
 
-### 🌟 Let's Collaborate!
-> 💬 I'm open to **internships, collaborations, and side projects**.  
-> If you like my work, feel free to ⭐ some repos or connect with me!
----
+## 📦 Other Projects
+- **Satellite Image Processing & Analysis** – Image preprocessing and segmentation using Python (OpenCV, NumPy).
+- **ISS Tracker** – Real-time satellite tracking web application with a clean and intuitive UI.
 
 ---
-### 🔮 **Vision & Mindset**  
-> I strive to build technology that creates real-world impact — from intelligent systems to solutions that improve everyday life.  
-> I believe in continuous learning, embracing challenges, and pushing boundaries to grow as both a developer and a leader.  
-> Collaboration, creativity, and perseverance define the way I approach problems and opportunities.  
+
+## 🤝 Let’s Collaborate
+I’m open to:
+- 💼 Internships  
+- 🛠️ Collaborative projects  
+- 🌱 Open-source contributions  
+
+If you find my work interesting, feel free to ⭐ repositories or connect with me.
 
 ---
----
-### 🌐 Connect with Me
 
+## 🌐 Connect With Me
 <p align="left">
   <a href="https://linkedin.com/in/Siddhi-nagapure-achievement" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
- <a href="https://instagram.com/Siddhi-nagapure-achievement" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  <a href="https://www.leetcode.com/achievement_50" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" />
   </a>
-  <a href="https://www.leetcode.com/achievement.50" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"  height="40"alt="LeetCode" />
-  </a>
- <a href="https://x.com/achievement.29" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter"  alt="Twitter" />
+  <a href="https://github.com/Siddhi-Nagapure-5" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
-
 
 ---
-<!-- ✨ Typing animation -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&width=500&lines=Happy+Coding!;Let's+Build+Together!;Thank+You+for+Visiting+💙" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00ADB5&center=true&vCenter=true&width=500&lines=Happy+Coding!;Let's+Build+Together!;Thanks+for+visiting+💙" />
 </p>
+
