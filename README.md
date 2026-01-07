@@ -15,7 +15,7 @@
 
 <img width="1584" height="396" alt="Beige Feminine Personal LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/40d5c7b0-191e-48bd-9d55-66a50c5bc1cc" />
 
-# 👋 Hi, I’m Siddhi Nagapure
+# 👋 About Me
 
 🎓 **Third-year B.Tech student** at **SCTR’s Pune Institute of Computer Technology (PICT)**  
 💻 **Developer | Competitive Programmer | AI & Full-Stack Enthusiast**  
