@@ -32,8 +32,12 @@ I enjoy building **real-world, problem-driven applications** and growing through
 - 🚀 **Smart India Hackathon 2025 – Semi-Finalist**, shortlisted from **250+ teams** at PICT
 - 🏆 **Mastercard Code for Change Hackathon 2025 – Finalist**
 - 💡 Strong focus on **AI/ML, Full-Stack Development, and Data Structures**
+---
 
-### 🛠️ Tech Stack <p align="left"> <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,java,git,github,html,css,ai,aws,docker,flask,django,nextjs,postman,tailwind,bootstrap,materialui,firebase,supabase,flutter,dart,python,java,cpp,c,vercel" /> </p> ---
+### 🛠️ Tech Stack 
+---
+<p align="left"> <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,java,git,github,html,css,ai,aws,docker,flask,django,nextjs,postman,tailwind,bootstrap,materialui,firebase,supabase,flutter,dart,python,java,cpp,c,vercel" /> </p>
+---
 
 ## 🚀 Featured Projects
 
