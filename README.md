@@ -37,7 +37,7 @@ I enjoy building **real-world, problem-driven applications** and growing through
 ### 🛠️ Tech Stack 
 ---
 <p align="left"> <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,java,git,github,html,css,ai,aws,docker,flask,django,nextjs,postman,tailwind,bootstrap,materialui,firebase,supabase,flutter,dart,python,java,cpp,c,vercel" /> </p>
----
+
 
 ## 🚀 Featured Projects
 
