@@ -27,7 +27,7 @@ I enjoy building **real-world, problem-driven applications** and growing through
 ---
 
 ## 🏆 Highlights & Achievements
-- 🥇 **ICPC AlgoQueen 2025 – Finalist** (National-level women-in-tech coding contest)
+- 🥇 **ACM ICPC AlgoQueen 2025 – Finalist** (National-level women-in-tech coding contest)
 - 🏅 **Adobe India Hackathon 2025** – Selected in **Top 4,000 teams** from **2,00,000+ applicants**
 - 🚀 **Smart India Hackathon 2025 – Semi-Finalist**, shortlisted from **250+ teams** at PICT
 - 🏆 **Mastercard Code for Change Hackathon 2025 – Finalist**
