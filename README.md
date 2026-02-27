@@ -5,7 +5,7 @@
 
 <h1 align="center">👋 Hi there, I'm <span style="color:#00ADB5;">Siddhi Nagapure</span></h1>
 <h3 align="center">🚀 Software Engineer</h3>
-<h3 align="center">🚀 Developer | ML Enthusiast | Competitive Programmer | Problem Solver | Data Science 🚀</h3>
+<h3 align="center">🚀 Developer | ML Enthusiast | Competitive Programmer | Problem Solver | Data Science | DSA🚀</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Siddhi-Nagapure-5&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
