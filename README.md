@@ -53,10 +53,6 @@ An **LLM-powered email automation tool** for intelligent classification, priorit
 
 ---
 
-## 📦 Other Projects
-- **Satellite Image Processing & Analysis** – Image preprocessing and segmentation using Python (OpenCV, NumPy).
-- **ISS Tracker** – Real-time satellite tracking web application with a clean and intuitive UI.
-
 ---
 ### 🔮 **Vision & Mindset** 
 ---
