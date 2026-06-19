@@ -101,7 +101,7 @@ If you find my work interesting, feel free to ⭐ repositories or connect with m
   Always open to discussions on software engineering, distributed systems, backend development, and technology.
 </p>
 ---
----
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&color=00ADB5&center=true&vCenter=true&width=700&lines=Exploring+Distributed+Systems;Designing+Scalable+Software;Building+Developer+Tools;Passionate+About+Problem+Solving" />
 </p>
