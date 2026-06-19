@@ -12,9 +12,9 @@
 
 <p align="center"><b>
 ✨ Bridging ideas and innovation through code, design, and data.</b></p>
-
+<p align="center">
 <img width="883" height="500" alt="Untitled design" src="https://github.com/user-attachments/assets/eaba3981-a176-461e-88cb-5c6837c6bae1" />
-
+</p>
 # 👋 About Me
 
 
