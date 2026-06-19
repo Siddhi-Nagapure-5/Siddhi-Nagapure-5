@@ -87,9 +87,7 @@ If you find my work interesting, feel free to ⭐ repositories or connect with m
 </p>
 
 ---
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00ADB5&center=true&vCenter=true&width=500&lines=Happy+Coding!;Let's+Build+Together!;Thanks+for+visiting+💙" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&color=00ADB5&center=true&vCenter=true&width=700&lines=Exploring+Distributed+Systems;Designing+Scalable+Software;Building+Developer+Tools;Passionate+About+Problem+Solving" />
 </p>
-
 ---
