@@ -39,20 +39,22 @@ I enjoy building **real-world, problem-driven applications** and growing through
 ---
 <p align="left"> <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,java,git,github,html,css,ai,aws,docker,flask,django,nextjs,postman,tailwind,bootstrap,materialui,firebase,supabase,flutter,dart,python,java,cpp,c,vercel" /> </p>
 
-
 ## 🚀 Featured Projects
 
 ### 🔹 Smart PDF Analyzer
-AI-based document analysis system to extract and rank relevant PDF sections using machine learning techniques.  
-Optimized for **offline (CPU-only)** execution and shortlisted in **Adobe India Hackathon 2025**.
+
+An **AI-powered document intelligence platform** that analyzes PDF documents, extracts meaningful sections, and ranks content based on relevance. Designed for efficient **offline, CPU-only execution**, the solution combines machine learning with scalable document processing and was recognized during the **Adobe India Hackathon 2025**.
 
 ### 🔹 Jobify
-A **MERN-stack job hiring platform** that enables recruiters to post jobs and candidates to apply, track applications, and manage hiring workflows.
+
+A modern **full-stack recruitment platform** that streamlines the hiring process for both recruiters and job seekers. Features include secure authentication, job posting and management, application tracking, role-based access control, and an intuitive workflow that mirrors real-world hiring systems.
 
 ### 🔹 SwiftGPT
-An **LLM-powered email automation tool** for intelligent classification, prioritization, and smart follow-ups using GPT-based logic.
+
+An **LLM-powered email automation system** that leverages AI agents to intelligently classify, prioritize, and manage email workflows. The platform automates repetitive communication tasks, generates context-aware responses, and helps improve productivity through smart email orchestration.
 
 ---
+
 
 ---
 ### 🔮 **Vision & Mindset** 
