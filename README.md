@@ -13,7 +13,8 @@
 <p align="center"><b>
 ✨ Bridging ideas and innovation through code, design, and data.</b></p>
 
-![Uploading Untitled design.png…]()
+<img width="1050" height="600" alt="Untitled design" src="https://github.com/user-attachments/assets/6fb41d42-82a0-46ea-8c3f-47bd92bcf951" />
+
 
 
 # 👋 About Me
