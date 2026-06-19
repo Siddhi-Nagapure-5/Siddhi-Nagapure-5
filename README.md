@@ -13,7 +13,7 @@
 <p align="center"><b>
 ✨ Bridging ideas and innovation through code, design, and data.</b></p>
 
-<img width="1050" height="600" alt="Siddhi Nagapure" src="https://github.com/user-attachments/assets/9619adbc-21e5-45d5-8b52-9f914fcb77d7" />
+![Uploading Untitled design.png…]()
 
 
 # 👋 About Me
