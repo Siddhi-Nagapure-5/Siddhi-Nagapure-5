@@ -73,7 +73,7 @@ I’m open to:
 If you find my work interesting, feel free to ⭐ repositories or connect with me!
 
 ---
-
+---
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -101,9 +101,12 @@ If you find my work interesting, feel free to ⭐ repositories or connect with m
 <p align="center">
   Always open to discussions on software engineering, distributed systems, backend development, and technology.
 </p>
-
+---
 <br>
 
+
+---
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=00ADB5&center=true&vCenter=true&width=700&lines=Code.+Learn.+Improve.;Backend+Engineering+%26+Distributed+Systems;Building+Developer+Tools;Curious+Mind.+Builder's+Mindset." />
 </p>
+---
