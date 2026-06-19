@@ -13,7 +13,8 @@
 <p align="center"><b>
 ✨ Bridging ideas and innovation through code, design, and data.</b></p>
 
-<img width="1584" height="396" alt="Beige Feminine Personal LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/40d5c7b0-191e-48bd-9d55-66a50c5bc1cc" />
+<img width="1050" height="600" alt="Siddhi Nagapure" src="https://github.com/user-attachments/assets/9619adbc-21e5-45d5-8b52-9f914fcb77d7" />
+
 
 # 👋 About Me
 
