@@ -77,23 +77,23 @@ If you find my work interesting, feel free to ⭐ repositories or connect with m
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/Siddhi-nagapure-achievement">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="YOUR_GITHUB">
+  <a href="https://github.com/Siddhi-Nagapure-5/Siddhi-Nagapure-5/">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="YOUR_LEETCODE">
+  <a href="https://www.leetcode.com/achievement.50">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 
-  <a href="YOUR_MEDIUM">
+  <a href="https://medium.com/@siddhinagapure29">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 
-  <a href="YOUR_PORTFOLIO">
+  <a href="https://siddhi-nagapure.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-00ADB5?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
