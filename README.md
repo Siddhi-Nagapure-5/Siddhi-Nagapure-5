@@ -99,7 +99,7 @@ If you find my work interesting, feel free to ⭐ repositories or connect with m
 </p>
 
 <p align="center">
-  Always open to discussions on software engineering, distributed systems, backend development, and technology.
+  Always open to discussions on software engineering, distributed systems, backend development, and technology and DSA.
 </p>
 <br>
 
