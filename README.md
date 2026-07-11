@@ -20,7 +20,7 @@
 # 👋 About Me
 
 
-🎓 **Third-year B.Tech student** at **SCTR’s Pune Institute of Computer Technology (PICT)**  
+🎓 **Final-year B.E. student** at **SCTR’s Pune Institute of Computer Technology (PICT)**  
 💻 **Developer | Competitive Programmer | AI & Full-Stack Enthusiast**  
 📫 **Email:** siddhinagapure155@gmail.com  
 
