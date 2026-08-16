@@ -1,254 +1,88 @@
-# 👋 Hi, I'm Siddhi Nagapure
+<div align="center">
 
-<h3 align="center">
-  Software Engineer • AI & Data Science • DSA & Competitive Programming
-</h3>
+# Siddhi Nagapure
 
-<p align="center">
-  <b>Building scalable software, intelligent systems, and solving challenging problems.</b>
-</p>
+### Software Engineer · AI & Data Science · DSA
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Siddhi-Nagapure-5&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+Building software, solving problems, and exploring intelligent systems.
 
-<p align="center">
-  <img width="883" height="400" alt="Siddhi Nagapure GitHub Banner" src="https://github.com/user-attachments/assets/eaba3981-a176-461e-88cb-5c6837c6bae1" />
-</p>
+[Portfolio](https://siddhi-nagapure.vercel.app/) ·
+[LinkedIn](https://www.linkedin.com/in/Siddhi-nagapure-achievement) ·
+[LeetCode](https://leetcode.com/achievement.50) ·
+[Email](mailto:siddhinagapure155@gmail.com)
 
----
+</div>
 
-## 🧑‍💻 About Me
+<br>
 
-🎓 Final-year **B.E. student in Artificial Intelligence & Data Science** at **SCTR's Pune Institute of Computer Technology (PICT)**
+<div align="center">
 
-💻 Interested in **Software Engineering, Backend Development, AI/ML, Data Structures & Algorithms, and Distributed Systems**
+<img src="https://github.com/user-attachments/assets/eaba3981-a176-461e-88cb-5c6837c6bae1" width="850"/>
 
-🧠 I enjoy understanding how systems work under the hood — from algorithms and databases to APIs, backend architecture, and cloud infrastructure.
-
-🚀 I learn by building **real-world projects, participating in hackathons, contributing to technical communities, and solving programming problems.**
-
-📫 **Email:** `siddhinagapure155@gmail.com`
+</div>
 
 ---
 
-## 🏆 Achievements
+### About
 
-* 🥇 **ACM ICPC AlgoQueen 2025 — Finalist**
-* 🏅 **Adobe India Hackathon 2025 — Top 4,000 teams** from 2,00,000+ applicants
-* 🏆 **Mastercard Code for Change Hackathon 2025 — Finalist**
-* 🚀 **Smart India Hackathon 2025 — Semi-Finalist**
-* 🏆 **Odoo x VIT Pune Hackathon 2026 — Top 78 Finalists**
-* 👩‍💻 **PICT Coders Club — Student Lead**
-* ☁️ **AWS Cloud Club PICT — Documentation Team**
+Final-year **B.E. student in Artificial Intelligence & Data Science at PICT, Pune.**
+
+I build **full-stack applications, AI/ML systems, and developer-focused tools**, while actively strengthening my foundations in **DSA, backend engineering, databases, and system design**.
+
+Currently exploring **distributed systems, Kafka, PostgreSQL, AWS, and scalable backend architecture.**
 
 ---
 
-## 🧠 What I Work With
+### Stack
 
-### Languages
+`Python` `C++` `Java` `JavaScript` `TypeScript`
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,typescript,dart" />
-</p>
+`React` `Node.js` `Express` `Flask` `Tailwind`
 
-### Software Engineering
+`PostgreSQL` `MongoDB` `MySQL` `Supabase`
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,html,css,tailwind" />
-</p>
+`AWS` `Docker` `Git` `Linux`
 
-### AI / Data Science
-
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-**Libraries & Tools:**
-`NumPy` • `Pandas` • `Scikit-learn` • `OpenCV` • `PyMuPDF` • `Tesseract OCR` • `Sentence Transformers`
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,supabase" />
-</p>
-
-### Cloud & Engineering Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vercel" />
-</p>
-
-**Currently exploring:**
-`Distributed Systems` • `Kafka` • `System Design` • `PostgreSQL` • `Cloud Architecture`
+`NumPy` `Pandas` `Scikit-learn` `OpenCV`
 
 ---
 
-## 💡 Problem Solving
+### Selected Work
 
-I actively practice **Data Structures & Algorithms and Competitive Programming**, with a focus on:
+**[Smart PDF Analyzer](#)**
+AI-powered document intelligence system built for efficient, offline PDF processing.
+`Python` `OCR` `NLP` `Sentence Transformers` `Docker`
 
-`Arrays & Strings` • `Hashing` • `Two Pointers` • `Sliding Window` • `Binary Search`
-`Greedy` • `Dynamic Programming` • `Trees` • `Graphs` • `Heaps`
-`Stacks & Queues` • `Tries` • `Prefix Sums` • `Monotonic Stack`
+**[GameGuard AI](#)**
+Behavioral analytics system for detecting anomalous activity in online games.
+`React` `Flask` `Scikit-learn` `Pandas`
 
-I focus not only on solving problems, but on understanding:
+**[Jobify](#)**
+Full-stack recruitment platform with authentication, role-based workflows and application tracking.
+`React` `Supabase` `Clerk` `Tailwind`
 
-> **Why does this approach work? Can it be optimized? What happens at scale?**
-
-<p align="center">
-  <a href="https://leetcode.com/achievement.50">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-</p>
-
----
-
-# 🚀 Featured Projects
-
-### 📄 Smart PDF Analyzer
-
-**AI-powered document intelligence system** designed to process and understand PDF documents efficiently.
-
-* Extracts structured information from complex documents
-* Performs semantic similarity and relevance ranking
-* Uses NLP and document-processing pipelines
-* Designed for **offline, CPU-only execution**
-* Built with a focus on efficient document processing
-* Developed for the **Adobe India Hackathon 2025**
-
-**Tech:** `Python` `PyMuPDF` `OCR` `Sentence Transformers` `Docker`
+**[SwiftGPT](#)**
+LLM-powered email automation system for intelligent classification and response generation.
+`React` `LLMs` `APIs`
 
 ---
 
-### 💼 Jobify
+### Highlights
 
-**Full-stack recruitment platform** designed to simulate a real-world hiring workflow.
-
-* Job discovery and posting
-* Candidate applications
-* Recruiter workflows
-* Authentication and authorization
-* Role-based access control
-* Application tracking
-* Responsive modern UI
-
-**Tech:** `React` `Tailwind CSS` `Supabase` `Clerk`
+**AlgoQueen 2025 — Finalist**
+**Mastercard Code for Change 2025 — Finalist**
+**Adobe India Hackathon 2025 — Top 4,000 teams**
+**Smart India Hackathon 2025 — Semi-Finalist**
+**Odoo × VIT Pune Hackathon 2026 — Top 78**
 
 ---
 
-### 🤖 SwiftGPT
+<div align="center">
 
-**AI-powered email automation platform** designed to reduce repetitive communication workflows.
+### Let's build something interesting.
 
-* Intelligent email classification
-* Priority detection
-* Context-aware response generation
-* AI-assisted email workflows
-* Automation of repetitive communication tasks
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/Siddhi-nagapure-achievement)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square\&logo=leetcode\&logoColor=black)](https://leetcode.com/achievement.50)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square\&logo=vercel\&logoColor=white)](https://siddhi-nagapure.vercel.app/)
 
-**Tech:** `React` `AI/LLMs` `APIs` `Automation`
-
----
-
-### 🛡️ GameGuard AI
-
-**Machine-learning based behavioral analytics system for detecting anomalous behavior in online games.**
-
-* Processes player telemetry
-* Extracts behavioral features
-* Detects suspicious/anomalous patterns
-* Generates model-based predictions
-* Provides an interactive analytics dashboard
-
-**Tech:** `React` `Flask` `Python` `Pandas` `Scikit-learn` `Joblib`
-
----
-
-### 🌍 AstroScan
-
-**Satellite image analysis platform** for extracting meaningful information from remote-sensing imagery.
-
-* Image segmentation
-* Land-cover analysis
-* Change detection
-* Feature extraction
-* Interactive visualization
-
-**Tech:** `React` `Flask` `Python` `Computer Vision` `Machine Learning`
-
----
-
-# 🏗️ Engineering Interests
-
-I'm particularly interested in understanding and building systems involving:
-
-```text
-Data Structures & Algorithms
-        ↓
-Backend Engineering
-        ↓
-Databases & Query Optimization
-        ↓
-Distributed Systems
-        ↓
-Cloud Infrastructure
-        ↓
-AI-powered Applications
-```
-
-Areas I'm currently exploring:
-
-* ⚙️ Backend architecture
-* 🗄️ PostgreSQL & database internals
-* 📨 Kafka & event-driven systems
-* ☁️ AWS & cloud infrastructure
-* 🐳 Docker & containerization
-* 🏛️ System Design
-* 🤖 AI/ML engineering
-* 🔍 Search, RAG & vector databases
-
----
-
-# 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Siddhi-Nagapure-5&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhi-Nagapure-5&layout=compact&theme=transparent&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddhi-Nagapure-5&theme=transparent&hide_border=true" />
-</p>
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/Siddhi-nagapure-achievement">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/achievement.50">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://medium.com/@siddhinagapure29">
-<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
-</a>
-
-<a href="https://siddhi-nagapure.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-00ADB5?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-</p>
-
-<p align="center">
-  <b>Build. Break. Learn. Improve. Repeat.</b>
-</p>
-
-<p align="center">
-  <i>Always open to interesting engineering problems, collaborations, and open-source opportunities.</i>
-</p>
+</div>
