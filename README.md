@@ -1,88 +1,110 @@
-<div align="center">
 
-# Siddhi Nagapure
+---
+<!-- 🔥 GitHub Banner -->
 
-### Software Engineer · AI & Data Science · DSA
 
-Building software, solving problems, and exploring intelligent systems.
+<h1 align="center">👋 Hi there, I'm <span style="color:#00ADB5;">Siddhi Nagapure</span></h1>
+<h3 align="center">🚀 Software Engineer</h3>
+<h3 align="center">✨ Full-Stack Developer | ML Enthusiast | DSA & CP | Problem Solver  | AIML & Data Science ✨ </h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Siddhi-Nagapure-5&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-[Portfolio](https://siddhi-nagapure.vercel.app/) ·
-[LinkedIn](https://www.linkedin.com/in/Siddhi-nagapure-achievement) ·
-[LeetCode](https://leetcode.com/achievement.50) ·
-[Email](mailto:siddhinagapure155@gmail.com)
+<p align="center"><b>
+✨ Bridging ideas and innovation through code, design, and data.</b></p>
+<p align="center">
+<img width="883" height="400" alt="Untitled design" src="https://github.com/user-attachments/assets/eaba3981-a176-461e-88cb-5c6837c6bae1" />
+</p>
 
-</div>
+---
+# 👋 About Me
 
+
+🎓 **Final-year B.E. student** at **SCTR’s Pune Institute of Computer Technology (PICT)**  
+💻 **Developer | Competitive Programmer | AI & Full-Stack Enthusiast**  
+📫 **Email:** siddhinagapure155@gmail.com  
+
+I enjoy building **real-world, problem-driven applications** and growing through **projects, hackathons, and competitive programming**. I believe in learning by doing and writing clean, scalable code.
+
+---
+
+## 🏆 Highlights & Achievements
+- 🥇 **ACM ICPC AlgoQueen 2025 – Finalist** (National-level women-in-tech coding contest)
+- 🏅 **Adobe India Hackathon 2025** – Selected in **Top 4,000 teams** from **2,00,000+ applicants**
+- 🚀 **Smart India Hackathon 2025 – Semi-Finalist**, shortlisted from **250+ teams** at PICT
+- 🏆 **Mastercard Code for Change Hackathon 2025 – Finalist**
+- 💡 Strong focus on **AI/ML, Full-Stack Development, Backend Development, and Data Structures**
+---
+
+### 🛠️ Tech Stack 
+---
+<p align="left"> <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,java,git,github,html,css,ai,aws,docker,flask,django,nextjs,postman,tailwind,bootstrap,materialui,firebase,supabase,flutter,dart,python,java,cpp,c,vercel" /> </p>
+
+## 🚀 Featured Projects
+
+### 🔹 Smart PDF Analyzer
+
+An **AI-powered document intelligence platform** that analyzes PDF documents, extracts meaningful sections, and ranks content based on relevance. Designed for efficient **offline, CPU-only execution**, the solution combines machine learning with scalable document processing and was recognized during the **Adobe India Hackathon 2025**.
+
+### 🔹 Jobify
+
+A modern **full-stack recruitment platform** that streamlines the hiring process for both recruiters and job seekers. Features include secure authentication, job posting and management, application tracking, role-based access control, and an intuitive workflow that mirrors real-world hiring systems.
+
+### 🔹 SwiftGPT
+
+An **LLM-powered email automation system** that leverages AI agents to intelligently classify, prioritize, and manage email workflows. The platform automates repetitive communication tasks, generates context-aware responses, and helps improve productivity through smart email orchestration.
+
+---
+
+
+---
+### 🔮 **Vision & Mindset** 
+---
+> I strive to build technology that creates real-world impact — from intelligent systems to solutions that improve everyday life.
+> I believe in continuous learning, embracing challenges, and pushing boundaries to grow as both a developer and a leader.
+> Collaboration, creativity, and perseverance define the way I approach problems and opportunities.
+ ---
+## 🤝 Let’s Collaborate
+I’m open to:
+- 💼 Internships  
+- 🛠️ Collaborative projects  
+- 🌱 Open-source contributions  
+
+If you find my work interesting, feel free to ⭐ repositories or connect with me!
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/Siddhi-nagapure-achievement">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/Siddhi-Nagapure-5/Siddhi-Nagapure-5/">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.leetcode.com/achievement.50">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+
+  <a href="https://medium.com/@siddhinagapure29">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+
+  <a href="https://siddhi-nagapure.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-00ADB5?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  Always open to discussions on software engineering, distributed systems, backend development, and technology and DSA.
+</p>
 <br>
 
-<div align="center">
-
-<img src="https://github.com/user-attachments/assets/eaba3981-a176-461e-88cb-5c6837c6bae1" width="850"/>
-
-</div>
 
 ---
-
-### About
-
-Final-year **B.E. student in Artificial Intelligence & Data Science at PICT, Pune.**
-
-I build **full-stack applications, AI/ML systems, and developer-focused tools**, while actively strengthening my foundations in **DSA, backend engineering, databases, and system design**.
-
-Currently exploring **distributed systems, Kafka, PostgreSQL, AWS, and scalable backend architecture.**
-
----
-
-### Stack
-
-`Python` `C++` `Java` `JavaScript` `TypeScript`
-
-`React` `Node.js` `Express` `Flask` `Tailwind`
-
-`PostgreSQL` `MongoDB` `MySQL` `Supabase`
-
-`AWS` `Docker` `Git` `Linux`
-
-`NumPy` `Pandas` `Scikit-learn` `OpenCV`
-
----
-
-### Selected Work
-
-**[Smart PDF Analyzer](#)**
-AI-powered document intelligence system built for efficient, offline PDF processing.
-`Python` `OCR` `NLP` `Sentence Transformers` `Docker`
-
-**[GameGuard AI](#)**
-Behavioral analytics system for detecting anomalous activity in online games.
-`React` `Flask` `Scikit-learn` `Pandas`
-
-**[Jobify](#)**
-Full-stack recruitment platform with authentication, role-based workflows and application tracking.
-`React` `Supabase` `Clerk` `Tailwind`
-
-**[SwiftGPT](#)**
-LLM-powered email automation system for intelligent classification and response generation.
-`React` `LLMs` `APIs`
-
----
-
-### Highlights
-
-**AlgoQueen 2025 — Finalist**
-**Mastercard Code for Change 2025 — Finalist**
-**Adobe India Hackathon 2025 — Top 4,000 teams**
-**Smart India Hackathon 2025 — Semi-Finalist**
-**Odoo × VIT Pune Hackathon 2026 — Top 78**
-
----
-
-<div align="center">
-
-### Let's build something interesting.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/Siddhi-nagapure-achievement)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square\&logo=leetcode\&logoColor=black)](https://leetcode.com/achievement.50)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square\&logo=vercel\&logoColor=white)](https://siddhi-nagapure.vercel.app/)
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=00ADB5&center=true&vCenter=true&width=700&lines=Code.+Learn.+Improve.;Backend+Engineering+%26+Distributed+Systems;Building+Developer+Tools;Curious+Mind.+Builder's+Mindset." />
+</p>
