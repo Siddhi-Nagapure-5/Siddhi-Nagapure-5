@@ -1,112 +1,254 @@
+# 👋 Hi, I'm Siddhi Nagapure
 
----
-<!-- 🔥 GitHub Banner -->
+<h3 align="center">
+  Software Engineer • AI & Data Science • DSA & Competitive Programming
+</h3>
 
-
-<h1 align="center">👋 Hi there, I'm <span style="color:#00ADB5;">Siddhi Nagapure</span></h1>
-<h3 align="center">🚀 Software Engineer</h3>
-<h3 align="center">✨ Full-Stack Developer | ML Enthusiast | DSA & CP | Problem Solver  | AIML & Data Science ✨ </h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Siddhi-Nagapure-5&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <b>Building scalable software, intelligent systems, and solving challenging problems.</b>
 </p>
 
-<p align="center"><b>
-✨ Bridging ideas and innovation through code, design, and data.</b></p>
 <p align="center">
-<img width="883" height="400" alt="Untitled design" src="https://github.com/user-attachments/assets/eaba3981-a176-461e-88cb-5c6837c6bae1" />
+  <img src="https://komarev.com/ghpvc/?username=Siddhi-Nagapure-5&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img width="883" height="400" alt="Siddhi Nagapure GitHub Banner" src="https://github.com/user-attachments/assets/eaba3981-a176-461e-88cb-5c6837c6bae1" />
 </p>
 
 ---
-# 👋 About Me
 
+## 🧑‍💻 About Me
 
-🎓 **Final-year B.E. student** at **SCTR’s Pune Institute of Computer Technology (PICT)**  
-💻 **Developer | Competitive Programmer | AI & Full-Stack Enthusiast**  
-📫 **Email:** siddhinagapure155@gmail.com  
+🎓 Final-year **B.E. student in Artificial Intelligence & Data Science** at **SCTR's Pune Institute of Computer Technology (PICT)**
 
-I enjoy building **real-world, problem-driven applications** and growing through **projects, hackathons, and competitive programming**. I believe in learning by doing and writing clean, scalable code.
+💻 Interested in **Software Engineering, Backend Development, AI/ML, Data Structures & Algorithms, and Distributed Systems**
 
----
+🧠 I enjoy understanding how systems work under the hood — from algorithms and databases to APIs, backend architecture, and cloud infrastructure.
 
-## 🏆 Highlights & Achievements
-- 🥇 **ACM ICPC AlgoQueen 2025 – Finalist** (National-level women-in-tech coding contest)
-- 🏅 **Adobe India Hackathon 2025** – Selected in **Top 4,000 teams** from **2,00,000+ applicants**
-- 🚀 **Smart India Hackathon 2025 – Semi-Finalist**, shortlisted from **250+ teams** at PICT
-- 🏆 **Mastercard Code for Change Hackathon 2025 – Finalist**
-- 💡 Strong focus on **AI/ML, Full-Stack Development, Backend Development, and Data Structures**
----
+🚀 I learn by building **real-world projects, participating in hackathons, contributing to technical communities, and solving programming problems.**
 
-### 🛠️ Tech Stack 
----
-<p align="left"> <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,java,git,github,html,css,ai,aws,docker,flask,django,nextjs,postman,tailwind,bootstrap,materialui,firebase,supabase,flutter,dart,python,java,cpp,c,vercel" /> </p>
-
-## 🚀 Featured Projects
-
-### 🔹 Smart PDF Analyzer
-
-An **AI-powered document intelligence platform** that analyzes PDF documents, extracts meaningful sections, and ranks content based on relevance. Designed for efficient **offline, CPU-only execution**, the solution combines machine learning with scalable document processing and was recognized during the **Adobe India Hackathon 2025**.
-
-### 🔹 Jobify
-
-A modern **full-stack recruitment platform** that streamlines the hiring process for both recruiters and job seekers. Features include secure authentication, job posting and management, application tracking, role-based access control, and an intuitive workflow that mirrors real-world hiring systems.
-
-### 🔹 SwiftGPT
-
-An **LLM-powered email automation system** that leverages AI agents to intelligently classify, prioritize, and manage email workflows. The platform automates repetitive communication tasks, generates context-aware responses, and helps improve productivity through smart email orchestration.
+📫 **Email:** `siddhinagapure155@gmail.com`
 
 ---
 
+## 🏆 Achievements
 
----
-### 🔮 **Vision & Mindset** 
----
-> I strive to build technology that creates real-world impact — from intelligent systems to solutions that improve everyday life.
-> I believe in continuous learning, embracing challenges, and pushing boundaries to grow as both a developer and a leader.
-> Collaboration, creativity, and perseverance define the way I approach problems and opportunities.
- ---
-## 🤝 Let’s Collaborate
-I’m open to:
-- 💼 Internships  
-- 🛠️ Collaborative projects  
-- 🌱 Open-source contributions  
-
-If you find my work interesting, feel free to ⭐ repositories or connect with me!
+* 🥇 **ACM ICPC AlgoQueen 2025 — Finalist**
+* 🏅 **Adobe India Hackathon 2025 — Top 4,000 teams** from 2,00,000+ applicants
+* 🏆 **Mastercard Code for Change Hackathon 2025 — Finalist**
+* 🚀 **Smart India Hackathon 2025 — Semi-Finalist**
+* 🏆 **Odoo x VIT Pune Hackathon 2026 — Top 78 Finalists**
+* 👩‍💻 **PICT Coders Club — Student Lead**
+* ☁️ **AWS Cloud Club PICT — Documentation Team**
 
 ---
 
-## 🌐 Connect With Me
+## 🧠 What I Work With
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,typescript,dart" />
+</p>
+
+### Software Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,html,css,tailwind" />
+</p>
+
+### AI / Data Science
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+**Libraries & Tools:**
+`NumPy` • `Pandas` • `Scikit-learn` • `OpenCV` • `PyMuPDF` • `Tesseract OCR` • `Sentence Transformers`
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,supabase" />
+</p>
+
+### Cloud & Engineering Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vercel" />
+</p>
+
+**Currently exploring:**
+`Distributed Systems` • `Kafka` • `System Design` • `PostgreSQL` • `Cloud Architecture`
+
+---
+
+## 💡 Problem Solving
+
+I actively practice **Data Structures & Algorithms and Competitive Programming**, with a focus on:
+
+`Arrays & Strings` • `Hashing` • `Two Pointers` • `Sliding Window` • `Binary Search`
+`Greedy` • `Dynamic Programming` • `Trees` • `Graphs` • `Heaps`
+`Stacks & Queues` • `Tries` • `Prefix Sums` • `Monotonic Stack`
+
+I focus not only on solving problems, but on understanding:
+
+> **Why does this approach work? Can it be optimized? What happens at scale?**
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/Siddhi-nagapure-achievement">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/Siddhi-Nagapure-5/Siddhi-Nagapure-5/">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-  <a href="https://www.leetcode.com/achievement.50">
+  <a href="https://leetcode.com/achievement.50">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-
-  <a href="https://medium.com/@siddhinagapure29">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-
-  <a href="https://siddhi-nagapure.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-00ADB5?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
 </p>
-
-<p align="center">
-  Always open to discussions on software engineering, distributed systems, backend development, and technology and DSA.
-</p>
-<br>
-
 
 ---
+
+# 🚀 Featured Projects
+
+### 📄 Smart PDF Analyzer
+
+**AI-powered document intelligence system** designed to process and understand PDF documents efficiently.
+
+* Extracts structured information from complex documents
+* Performs semantic similarity and relevance ranking
+* Uses NLP and document-processing pipelines
+* Designed for **offline, CPU-only execution**
+* Built with a focus on efficient document processing
+* Developed for the **Adobe India Hackathon 2025**
+
+**Tech:** `Python` `PyMuPDF` `OCR` `Sentence Transformers` `Docker`
+
+---
+
+### 💼 Jobify
+
+**Full-stack recruitment platform** designed to simulate a real-world hiring workflow.
+
+* Job discovery and posting
+* Candidate applications
+* Recruiter workflows
+* Authentication and authorization
+* Role-based access control
+* Application tracking
+* Responsive modern UI
+
+**Tech:** `React` `Tailwind CSS` `Supabase` `Clerk`
+
+---
+
+### 🤖 SwiftGPT
+
+**AI-powered email automation platform** designed to reduce repetitive communication workflows.
+
+* Intelligent email classification
+* Priority detection
+* Context-aware response generation
+* AI-assisted email workflows
+* Automation of repetitive communication tasks
+
+**Tech:** `React` `AI/LLMs` `APIs` `Automation`
+
+---
+
+### 🛡️ GameGuard AI
+
+**Machine-learning based behavioral analytics system for detecting anomalous behavior in online games.**
+
+* Processes player telemetry
+* Extracts behavioral features
+* Detects suspicious/anomalous patterns
+* Generates model-based predictions
+* Provides an interactive analytics dashboard
+
+**Tech:** `React` `Flask` `Python` `Pandas` `Scikit-learn` `Joblib`
+
+---
+
+### 🌍 AstroScan
+
+**Satellite image analysis platform** for extracting meaningful information from remote-sensing imagery.
+
+* Image segmentation
+* Land-cover analysis
+* Change detection
+* Feature extraction
+* Interactive visualization
+
+**Tech:** `React` `Flask` `Python` `Computer Vision` `Machine Learning`
+
+---
+
+# 🏗️ Engineering Interests
+
+I'm particularly interested in understanding and building systems involving:
+
+```text
+Data Structures & Algorithms
+        ↓
+Backend Engineering
+        ↓
+Databases & Query Optimization
+        ↓
+Distributed Systems
+        ↓
+Cloud Infrastructure
+        ↓
+AI-powered Applications
+```
+
+Areas I'm currently exploring:
+
+* ⚙️ Backend architecture
+* 🗄️ PostgreSQL & database internals
+* 📨 Kafka & event-driven systems
+* ☁️ AWS & cloud infrastructure
+* 🐳 Docker & containerization
+* 🏛️ System Design
+* 🤖 AI/ML engineering
+* 🔍 Search, RAG & vector databases
+
+---
+
+# 📊 GitHub Activity
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=00ADB5&center=true&vCenter=true&width=700&lines=Code.+Learn.+Improve.;Backend+Engineering+%26+Distributed+Systems;Building+Developer+Tools;Curious+Mind.+Builder's+Mindset." />
+  <img src="https://github-readme-stats.vercel.app/api?username=Siddhi-Nagapure-5&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhi-Nagapure-5&layout=compact&theme=transparent&hide_border=true" height="170"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddhi-Nagapure-5&theme=transparent&hide_border=true" />
+</p>
 
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/Siddhi-nagapure-achievement">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/achievement.50">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://medium.com/@siddhinagapure29">
+<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
+<a href="https://siddhi-nagapure.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-00ADB5?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+  <b>Build. Break. Learn. Improve. Repeat.</b>
+</p>
+
+<p align="center">
+  <i>Always open to interesting engineering problems, collaborations, and open-source opportunities.</i>
+</p>
