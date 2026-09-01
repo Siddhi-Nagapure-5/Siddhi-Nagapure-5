@@ -46,10 +46,6 @@ I enjoy building **real-world, problem-driven applications** and growing through
 
 An **AI-powered document intelligence platform** that analyzes PDF documents, extracts meaningful sections, and ranks content based on relevance. Designed for efficient **offline, CPU-only execution**, the solution combines machine learning with scalable document processing and was recognized during the **Adobe India Hackathon 2025**.
 
-### 🔹 Jobify
-
-A modern **full-stack recruitment platform** that streamlines the hiring process for both recruiters and job seekers. Features include secure authentication, job posting and management, application tracking, role-based access control, and an intuitive workflow that mirrors real-world hiring systems.
-
 ### 🔹 SwiftGPT
 
 An **LLM-powered email automation system** that leverages AI agents to intelligently classify, prioritize, and manage email workflows. The platform automates repetitive communication tasks, generates context-aware responses, and helps improve productivity through smart email orchestration.
