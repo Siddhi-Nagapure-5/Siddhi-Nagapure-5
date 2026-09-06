@@ -40,7 +40,7 @@ real-world engineering solutions.
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://www.leetcode.com/achievement.50">
+<a href="https://www.leetcode.com/achievement_50">
 <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
