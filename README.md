@@ -1,14 +1,16 @@
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     HERO SECTION                           -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ============================================================ -->
+<!--                         HERO                                 -->
+<!-- ============================================================ -->
 
 <div align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:087F8C,100:00ADB5&height=260&section=header&text=Siddhi%20Nagapure&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Backend%20%7C%20Systems&descAlignY=62&descSize=20&animation=fadeIn"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:07131C,45:073B4C,100:00ADB5&height=230&section=header&text=Siddhi%20Nagapure&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Backend%20%7C%20Systems&descAlignY=62&descSize=19&animation=fadeIn"
 />
 
-<h3>👋 Hey, I'm Siddhi Nagapure</h3>
+<br>
+
+<h2>👋 Hey, I'm Siddhi Nagapure</h2>
 
 <p>
 <b>Software Engineer • AI/ML Enthusiast • Backend & Systems Builder</b>
@@ -25,34 +27,36 @@ real-world engineering solutions.
 <a href="https://www.linkedin.com/in/Siddhi-nagapure-achievement">
 <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="mailto:siddhinagapure155@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://siddhi-nagapure.vercel.app/">
 <img src="https://img.shields.io/badge/PORTFOLIO-00ADB5?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://github.com/Siddhi-Nagapure-5">
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://www.leetcode.com/achievement.50">
 <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Siddhi-Nagapure-5&label=PROFILE+VIEWS&color=00ADB5&style=for-the-badge"/>
+<img
+src="https://komarev.com/ghpvc/?username=Siddhi-Nagapure-5&label=PROFILE%20VIEWS&color=00ADB5&style=for-the-badge"
+/>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                         ABOUT                              -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ============================================================ -->
+<!--                         ABOUT                                -->
+<!-- ============================================================ -->
 
 <div align="center">
 
@@ -60,30 +64,34 @@ real-world engineering solutions.
 
 </div>
 
-<table>
+<table width="100%">
 <tr>
-<td width="60%" valign="top">
+
+<td width="60%" valign="middle">
 
 ### Hey! I'm Siddhi 👋
 
 I'm a **B.E. Artificial Intelligence & Data Science student at PICT**, passionate about building software that solves real problems.
 
-I enjoy working across:
+I enjoy working at the intersection of:
 
-- 🤖 **AI / Machine Learning**
-- ⚙️ **Backend Engineering**
-- 🗄️ **Database Internals**
-- ☁️ **Cloud & Data Systems**
-- 🧩 **DSA & Competitive Programming**
-- 🚀 **Full-Stack Development**
+**AI/ML · Backend Engineering · Database Systems · Cloud · DSA**
 
-I'm particularly interested in understanding **how systems work internally**, not just how to use them.
+What interests me most is understanding **how systems work internally**, rather than simply using them.
+
+<br>
+
+🔹 Building engineering-heavy projects  
+🔹 Exploring AI/ML systems  
+🔹 Learning backend & distributed systems  
+🔹 Solving DSA and competitive programming problems  
+🔹 Turning ideas into practical software
 
 </td>
 
 <td width="40%" align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,typescript" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts" />
 
 <br><br>
 
@@ -94,80 +102,111 @@ I'm particularly interested in understanding **how systems work internally**, no
 <img src="https://skillicons.dev/icons?i=aws,mysql,mongodb,sqlite,git,github,linux" />
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                      CURRENT FOCUS                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ============================================================ -->
+<!--                    CURRENT FOCUS                              -->
+<!-- ============================================================ -->
 
 <div align="center">
 
 # 🎯 Currently Building & Learning
 
-<table>
+<p>
+<b>What I'm actively getting better at.</b>
+</p>
+
+</div>
+
+<br>
+
+<table width="100%">
 <tr>
 
-<td align="center" width="25%">
+<td align="center" width="25%" valign="top">
 
 ### 🗄️
-**Database Engineering**
 
-WAL  
-ARIES  
-Recovery  
-Transactions
+## Database Engineering
+
+<br>
+
+`WAL`
+
+`ARIES`
+
+`Recovery`
+
+`Transactions`
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="25%" valign="top">
 
 ### 🤖
-**AI / ML**
 
-AutoML  
-SHAP  
-Pipelines  
-Model Selection
+## AI / ML
+
+<br>
+
+`AutoML`
+
+`SHAP`
+
+`ML Pipelines`
+
+`Model Selection`
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="25%" valign="top">
 
 ### ⚙️
-**Backend Systems**
 
-APIs  
-Microservices  
-System Design  
-Scalability
+## Backend Systems
+
+<br>
+
+`REST APIs`
+
+`Microservices`
+
+`System Design`
+
+`Scalability`
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="25%" valign="top">
 
 ### 🧠
-**Problem Solving**
 
-DSA  
-Algorithms  
-Optimization  
-CP
+## Problem Solving
+
+<br>
+
+`DSA`
+
+`Algorithms`
+
+`Optimization`
+
+`Competitive Programming`
 
 </td>
 
 </tr>
 </table>
 
-</div>
-
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    FEATURED PROJECTS                        -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ============================================================ -->
+<!--                    FEATURED PROJECTS                          -->
+<!-- ============================================================ -->
 
 <div align="center">
 
@@ -181,26 +220,33 @@ CP
 
 <br>
 
-<table>
+<table width="100%">
+
 <tr>
+
+<!-- ===================== AEGISDB ===================== -->
 
 <td width="50%" valign="top">
 
 <div align="center">
 
-## 🔐 AegisDB
+# 🔐 AegisDB
 
 ### Self-Recovering Database Engine
 
+<br>
+
 <img src="https://img.shields.io/badge/DATABASE-ENGINEERING-00ADB5?style=flat-square"/>
 <img src="https://img.shields.io/badge/ARIES-RECOVERY-087F8C?style=flat-square"/>
-<img src="https://img.shields.io/badge/ACID-TRANSACTIONS-0F2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/ACID-TRANSACTIONS-183642?style=flat-square"/>
 
 </div>
 
-**A fault-tolerant database engine designed around transaction durability and crash recovery.**
+<br>
 
-**⚙️ Engineering Highlights**
+**A fault-tolerant database engine focused on transaction durability, crash recovery and consistency.**
+
+### ⚙️ Engineering Highlights
 
 - Write-Ahead Logging
 - Checkpointing
@@ -209,21 +255,27 @@ CP
 - ACID-compliant recovery
 - Failure consistency
 
+<br>
+
 <div align="center">
 
-`WAL` • `ARIES` • `ACID` • `Recovery`
+`WAL` &nbsp; `ARIES` &nbsp; `ACID` &nbsp; `Recovery`
 
 </div>
 
 </td>
 
+<!-- ===================== NEXAGLINT ===================== -->
+
 <td width="50%" valign="top">
 
 <div align="center">
 
-## 🌊 NexaGlint
+# 🌊 NexaGlint
 
 ### Lakehouse Metadata Query Engine
+
+<br>
 
 <img src="https://img.shields.io/badge/AMAZON-S3-FF9900?style=flat-square"/>
 <img src="https://img.shields.io/badge/SQL-QUERYING-336791?style=flat-square"/>
@@ -231,9 +283,11 @@ CP
 
 </div>
 
+<br>
+
 **A metadata exploration and query engine for large-scale data lakes stored on Amazon S3.**
 
-**⚙️ Engineering Highlights**
+### ⚙️ Engineering Highlights
 
 - Schema discovery
 - Snapshot inspection
@@ -242,9 +296,11 @@ CP
 - Schema introspection
 - SQL over object storage
 
+<br>
+
 <div align="center">
 
-`S3` • `SQL` • `Metadata` • `Lakehouse`
+`S3` &nbsp; `SQL` &nbsp; `Metadata` &nbsp; `Lakehouse`
 
 </div>
 
@@ -252,15 +308,19 @@ CP
 
 </tr>
 
+<!-- ===================== AUTOML ===================== -->
+
 <tr>
 
-<td colspan="2">
+<td colspan="2" valign="top">
 
 <div align="center">
 
-## 🤖 Explainable AutoML Pipeline
+# 🤖 Explainable AutoML Pipeline
 
 ### Automated Machine Learning + Explainable AI
+
+<br>
 
 <img src="https://img.shields.io/badge/AUTOML-MACHINE%20LEARNING-00ADB5?style=flat-square"/>
 <img src="https://img.shields.io/badge/SHAP-EXPLAINABILITY-FF6F00?style=flat-square"/>
@@ -268,15 +328,30 @@ CP
 
 <br><br>
 
-An automated ML pipeline covering
-
-**Data Preprocessing → Feature Engineering → Model Selection → Hyperparameter Optimization → Explainability**
+An automated ML pipeline covering:
 
 <br>
 
-`5-Fold Cross Validation` &nbsp; • &nbsp;
-`SHAP` &nbsp; • &nbsp;
-`Feature Engineering` &nbsp; • &nbsp;
+<b>
+Data Preprocessing
+→
+Feature Engineering
+→
+Model Selection
+→
+Hyperparameter Optimization
+→
+Explainability
+</b>
+
+<br><br>
+
+`5-Fold Cross Validation`
+&nbsp; • &nbsp;
+`SHAP`
+&nbsp; • &nbsp;
+`Feature Engineering`
+&nbsp; • &nbsp;
 `Model Evaluation`
 
 </div>
@@ -284,32 +359,48 @@ An automated ML pipeline covering
 </td>
 
 </tr>
+
 </table>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                       EXPERIENCE                           -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ============================================================ -->
+<!--                         EXPERIENCE                            -->
+<!-- ============================================================ -->
 
 <div align="center">
 
 # 💼 Experience
 
+<p>
+<b>Where I have applied my skills beyond academic projects.</b>
+</p>
+
 </div>
 
-<table>
+<br>
+
+<table width="100%">
+
 <tr>
 
 <td width="50%" valign="top">
 
-## 🤖 AI & DS Intern
+<div align="center">
+
+# 🤖
+
+## AI & DS Intern
 
 ### Infer Lab — PICT Pune
 
 `Jan 2026 – Mar 2026`
 
-Built an **Explainable AutoML pipeline** with:
+</div>
+
+<br>
+
+Built an **Explainable AutoML pipeline** involving:
 
 - Automated data curation
 - Feature engineering
@@ -321,11 +412,19 @@ Built an **Explainable AutoML pipeline** with:
 
 <td width="50%" valign="top">
 
-## 📱 Android & ML Intern
+<div align="center">
+
+# 📱
+
+## Android & ML Intern
 
 ### Sumago Infotech
 
 `Jun 2023 – Aug 2023`
+
+</div>
+
+<br>
 
 Worked on:
 
@@ -337,44 +436,52 @@ Worked on:
 </td>
 
 </tr>
+
 </table>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                       ACHIEVEMENTS                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ============================================================ -->
+<!--                        ACHIEVEMENTS                           -->
+<!-- ============================================================ -->
 
 <div align="center">
 
 # 🏆 Achievements
 
+<p>
+<b>Milestones from hackathons and engineering competitions.</b>
+</p>
+
+</div>
+
 <br>
 
-<table>
+<table width="100%">
+
 <tr>
 
-<td align="center">
+<td align="center" width="50%">
 
-🥇
+### 🥇
 
-### Odoo × VIT Pune Hackathon 2026
+## Odoo × VIT Pune Hackathon 2026
 
 **FINALIST**
 
-Top **78 / 1500+**
+Top **78 / 1500+ teams**
 
 </td>
 
-<td align="center">
+<td align="center" width="50%">
 
-🏆
+### 🏆
 
-### Mastercard Code for Change 2025
+## Mastercard Code for Change 2025
 
 **FINALIST**
 
-Top **200**
+Top **200 participants**
 
 </td>
 
@@ -382,28 +489,28 @@ Top **200**
 
 <tr>
 
-<td align="center">
+<td align="center" width="50%">
 
-🚀
+### 🚀
 
-### Adobe India Hackathon 2025
+## Adobe India Hackathon 2025
 
 **TEAM LEAD**
 
 Semi-Finals  
-2000+ teams
+**2000+ teams**
 
 </td>
 
-<td align="center">
+<td align="center" width="50%">
 
-💡
+### 💡
 
-### Smart India Hackathon 2025
+## Smart India Hackathon 2025
 
 **INSTITUTE SEMI-FINALIST**
 
-Top **40 / 250+**
+Top **40 / 250+ teams**
 
 </td>
 
@@ -411,113 +518,128 @@ Top **40 / 250+**
 
 </table>
 
-</div>
-
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                       TECH STACK                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ============================================================ -->
+<!--                    TECHNOLOGY STACK                           -->
+<!-- ============================================================ -->
 
 <div align="center">
 
 # 🛠️ Languages, Frameworks & Tools
 
-</div>
-
-### 💻 Languages
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js"/>
-
-</div>
-
-<br>
-
-### ⚙️ Backend & Frameworks
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=spring,flask,nodejs,nextjs,kubernetes"/>
-
-</div>
-
-<br>
-
-### 🗄️ Databases & Data Systems
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Database%20Internals-00ADB5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Lakehouse%20Architecture-087F8C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Metadata%20Systems-0F2027?style=for-the-badge"/>
-
-</div>
-
-<br>
-
-### ☁️ Cloud & DevOps
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github,postman"/>
+<p>
+<b>The technologies I use to build and experiment.</b>
+</p>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    PROBLEM SOLVING                         -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+### 💻 Languages
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts" />
+
+</div>
+
+<br>
+
+---
+
+### ⚙️ Backend & Frameworks
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=spring,flask,nodejs,nextjs,kubernetes" />
+
+</div>
+
+<br>
+
+---
+
+### 🗄️ Databases & Data Systems
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/DATABASE%20INTERNALS-00ADB5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LAKEHOUSE%20ARCHITECTURE-087F8C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/METADATA%20SYSTEMS-183642?style=for-the-badge"/>
+
+</div>
+
+<br>
+
+---
+
+### ☁️ Cloud, DevOps & Developer Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github,postman" />
+
+</div>
+
+---
+
+<!-- ============================================================ -->
+<!--                     PROBLEM SOLVING                           -->
+<!-- ============================================================ -->
 
 <div align="center">
 
 # 🧠 Problem Solving
 
 <p>
-I enjoy competitive programming because it teaches me to think in terms of
-<b>constraints, optimization and correctness.</b>
+<b>Think deeply. Optimize relentlessly. Build correctly.</b>
 </p>
 
 <br>
 
 <img src="https://img.shields.io/badge/DATA%20STRUCTURES%20%26%20ALGORITHMS-00ADB5?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/COMPETITIVE%20PROGRAMMING-087F8C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PROBLEM%20SOLVING-0F2027?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PROBLEM%20SOLVING-183642?style=for-the-badge"/>
 
 <br><br>
 
 <a href="https://www.leetcode.com/achievement.50">
+
 <img src="https://img.shields.io/badge/VIEW%20MY%20LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
 </a>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                      GITHUB STATS                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ============================================================ -->
+<!--                     GITHUB STATS                             -->
+<!-- ============================================================ -->
 
 <div align="center">
 
 # 📊 GitHub Statistics
 
+<p>
+<b>A snapshot of my development activity.</b>
+</p>
+
 <br>
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=Siddhi-Nagapure-5&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-height="180"
+src="https://github-readme-stats.vercel.app/api?username=Siddhi-Nagapure-5&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
+width="49%"
 />
 
 <img
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhi-Nagapure-5&layout=compact&theme=tokyonight&hide_border=true"
-height="180"
+width="42%"
 />
 
 <br><br>
@@ -531,9 +653,9 @@ width="60%"
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  CONTRIBUTION GRAPH                        -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ============================================================ -->
+<!--                  CONTRIBUTION ACTIVITY                       -->
+<!-- ============================================================ -->
 
 <div align="center">
 
@@ -542,59 +664,71 @@ width="60%"
 <br>
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Siddhi-Nagapure-5&theme=tokyo-night&hide_border=true&area=true"
+src="https://github-readme-activity-graph.vercel.app/graph?username=Siddhi-Nagapure-5&bg_color=00000000&color=00ADB5&line=00ADB5&point=FFFFFF&area=true&hide_border=true"
 />
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                       VISION                               -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ============================================================ -->
+<!--                         VISION                               -->
+<!-- ============================================================ -->
 
 <div align="center">
 
 # 🎯 Vision
 
+<p>
+<b>The principles I want to carry into engineering.</b>
+</p>
+
 </div>
 
-<table>
+<br>
+
+<table width="100%">
+
 <tr>
 
-<td align="center">
+<td align="center" width="25%">
 
-### BUILD
+## BUILD
 
-Turning ideas into working systems.
-
-</td>
-
-<td align="center">
-
-### UNDERSTAND
-
-Learning how technology works underneath.
+Turning ideas into  
+**working systems.**
 
 </td>
 
-<td align="center">
+<td align="center" width="25%">
 
-### SOLVE
+## UNDERSTAND
 
-Breaking difficult problems into simpler ones.
+Learning how  
+**technology works underneath.**
 
 </td>
 
-<td align="center">
+<td align="center" width="25%">
 
-### IMPROVE
+## SOLVE
 
-Continuously becoming a better engineer.
+Breaking difficult  
+**problems into simpler ones.**
+
+</td>
+
+<td align="center" width="25%">
+
+## IMPROVE
+
+Continuously becoming  
+**a better engineer.**
 
 </td>
 
 </tr>
+
 </table>
 
 <br>
@@ -607,9 +741,9 @@ Continuously becoming a better engineer.
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     CONNECT                               -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ============================================================ -->
+<!--                        CONNECT                               -->
+<!-- ============================================================ -->
 
 <div align="center">
 
@@ -617,33 +751,38 @@ Continuously becoming a better engineer.
 
 <p>
 Interested in <b>AI, backend engineering, systems, databases, DSA</b>
+<br>
 or building something interesting?
 </p>
 
 <br>
 
 <a href="https://www.linkedin.com/in/Siddhi-nagapure-achievement">
-<img src="https://img.shields.io/badge/LET'S%20CONNECT-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/CONNECT%20ON-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+&nbsp;
 
 <a href="https://siddhi-nagapure.vercel.app/">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-00ADB5?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE-MY%20PORTFOLIO-00ADB5?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
+&nbsp;
+
 <a href="mailto:siddhinagapure155@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL%20ME-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/SEND%20AN-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
 
 <img
-src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=00ADB5&center=true&vCenter=true&width=750&lines=Code.+Learn.+Improve.;Building+Systems+That+Matter.;AI+%7C+Backend+%7C+Systems+%7C+DSA;Curious+Mind.+Builder's+Mindset.;Always+Learning.+Always+Building."
+src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1200&color=00ADB5&center=true&vCenter=true&width=760&lines=Code.+Learn.+Improve.;Building+Systems+That+Matter.;AI+%7C+Backend+%7C+Systems+%7C+DSA;Curious+Mind.+Builder's+Mindset.;Always+Learning.+Always+Building."
 />
 
 <br><br>
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:087F8C,100:00ADB5&height=120&section=footer"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:07131C,45:073B4C,100:00ADB5&height=110&section=footer"
 />
 
 </div>
