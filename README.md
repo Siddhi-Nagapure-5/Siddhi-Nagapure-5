@@ -660,7 +660,42 @@ width="60%"
 <div align="center">
 
 # 📈 Contribution Activity
+<!-- ============================================================ -->
+<!--              PROBLEM SOLVING & ACTIVITY                      -->
+<!-- ============================================================ -->
 
+<div align="center">
+
+## 📈 Problem Solving & Contribution Activity
+
+<br>
+
+### 💻 GitHub
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=Siddhi-Nagapure-5&bg_color=00000000&color=00ADB5&line=00ADB5&point=FFFFFF&area=true&hide_border=true"
+width="95%"
+/>
+
+<br><br>
+
+### 🟠 LeetCode
+
+<img
+src="https://leetcard.jacoblin.cool/achievement.50?theme=dark&font=Baloo&ext=heatmap"
+width="70%"
+/>
+
+<br><br>
+
+### 🔵 Codeforces
+
+<img
+src="https://codeforces-readme-stats.vercel.app/api/card?username=YOUR_CODEFORCES_USERNAME&theme=github_dark"
+width="70%"
+/>
+
+</div>
 <br>
 
 <img
