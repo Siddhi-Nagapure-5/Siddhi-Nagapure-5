@@ -609,7 +609,7 @@ Top **40 / 250+ teams**
 
 <br><br>
 
-<a href="https://www.leetcode.com/achievement.50">
+<a href="https://www.leetcode.com/achievement_50">
 <img src="https://img.shields.io/badge/VIEW%20MY%20LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
@@ -695,13 +695,13 @@ width="95%"
 <br>
 
 <img
-src="https://leetcard.jacoblin.cool/achievement.50?theme=dark&font=Baloo&ext=heatmap"
+src="https://leetcard.jacoblin.cool/achievement_50?theme=dark&font=Baloo&ext=heatmap"
 width="95%"
 />
 
 <br><br>
 
-<a href="https://leetcode.com/achievement.50/">
+<a href="https://leetcode.com/achievement_50/">
 <img
 src="https://img.shields.io/badge/VIEW%20PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
 />
@@ -716,13 +716,13 @@ src="https://img.shields.io/badge/VIEW%20PROFILE-FFA116?style=for-the-badge&logo
 <br>
 
 <img
-src="https://codeforces-readme-stats.vercel.app/api/card?username=achievement_50&theme=github_dark"
+src="https://codeforces-readme-stats.vercel.app/api/card?username=achievement.50&theme=github_dark"
 width="95%"
 />
 
 <br><br>
 
-<a href="https://codeforces.com/profile/achievement_50">
+<a href="https://codeforces.com/profile/achievement.50">
 <img
 src="https://img.shields.io/badge/VIEW%20PROFILE-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"
 />
