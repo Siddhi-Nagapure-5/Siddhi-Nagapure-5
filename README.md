@@ -691,7 +691,7 @@ width="70%"
 ### 🔵 Codeforces
 
 <img
-src="https://codeforces-readme-stats.vercel.app/api/card?username=YOUR_CODEFORCES_USERNAME&theme=github_dark"
+src="https://codeforces-readme-stats.vercel.app/api/card?username=achievement_50&theme=github_dark"
 width="70%"
 />
 
