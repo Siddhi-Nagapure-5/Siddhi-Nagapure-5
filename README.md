@@ -363,9 +363,8 @@ Explainability
 </table>
 
 ---
-
 <!-- ============================================================ -->
-<!--                         EXPERIENCE                            -->
+<!--                         EXPERIENCE                           -->
 <!-- ============================================================ -->
 
 <div align="center">
@@ -373,7 +372,7 @@ Explainability
 # 💼 Experience
 
 <p>
-<b>Where I have applied my skills beyond academic projects.</b>
+<b>Learning by building, experimenting and working on real problems.</b>
 </p>
 
 </div>
@@ -381,18 +380,17 @@ Explainability
 <br>
 
 <table width="100%">
-
 <tr>
+
+<!-- ====================== EXPERIENCE 1 ======================= -->
 
 <td width="50%" valign="top">
 
 <div align="center">
 
-# 🤖
+## 🤖 AI & DS Intern
 
-## AI & DS Intern
-
-### Infer Lab — PICT Pune
+### <b>Infer Lab — PICT Pune</b>
 
 `Jan 2026 – Mar 2026`
 
@@ -400,25 +398,35 @@ Explainability
 
 <br>
 
-Built an **Explainable AutoML pipeline** involving:
+<b>Worked on an Explainable AutoML pipeline</b> involving:
 
-- Automated data curation
-- Feature engineering
-- Model selection
-- 5-fold cross-validation
-- SHAP-based explanations
+<br><br>
+
+• Automated <b>data curation</b>  
+• <b>Feature engineering</b>  
+• <b>Model selection</b>  
+• <b>5-fold cross-validation</b>  
+• <b>SHAP-based explanations</b>
+
+<br><br>
+
+<div align="center">
+
+`AutoML` • `Machine Learning` • `SHAP`
+
+</div>
 
 </td>
+
+<!-- ====================== EXPERIENCE 2 ======================= -->
 
 <td width="50%" valign="top">
 
 <div align="center">
 
-# 📱
+## 📱 Android & ML Intern
 
-## Android & ML Intern
-
-### Sumago Infotech
+### <b>Sumago Infotech</b>
 
 `Jun 2023 – Aug 2023`
 
@@ -426,23 +434,34 @@ Built an **Explainable AutoML pipeline** involving:
 
 <br>
 
-Worked on:
+<b>Worked across Android and ML-driven application workflows</b> involving:
 
-- Android application features
-- Lifecycle-aware resource management
-- ML-driven functionality
-- Data preprocessing workflows
+<br><br>
+
+• <b>Android application features</b>  
+• Lifecycle-aware <b>resource management</b>  
+• <b>ML-driven functionality</b>  
+• <b>Data preprocessing workflows</b>
+
+<br><br>
+
+<div align="center">
+
+`Android` • `Machine Learning` • `Data Processing`
+
+</div>
 
 </td>
 
 </tr>
-
 </table>
+
+<br>
 
 ---
 
 <!-- ============================================================ -->
-<!--                        ACHIEVEMENTS                           -->
+<!--                       ACHIEVEMENTS                            -->
 <!-- ============================================================ -->
 
 <div align="center">
@@ -450,7 +469,7 @@ Worked on:
 # 🏆 Achievements
 
 <p>
-<b>Milestones from hackathons and engineering competitions.</b>
+<b>Hackathons, competitions and milestones.</b>
 </p>
 
 </div>
@@ -459,64 +478,132 @@ Worked on:
 
 <table width="100%">
 
+<!-- ========================= ROW 1 =========================== -->
+
 <tr>
 
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
-### 🥇
+<div align="center">
 
-## Odoo × VIT Pune Hackathon 2026
+### 🥇 Odoo × VIT Pune Hackathon 2026
 
-**FINALIST**
+<br>
 
-Top **78 / 1500+ teams**
+<b>FINALIST</b>
+
+<br><br>
+
+<strong>Top 78 / 1500+</strong>
+
+<br>
+
+teams
+
+</div>
 
 </td>
 
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
-### 🏆
+<div align="center">
 
-## Mastercard Code for Change 2025
+### 🏆 Mastercard Code for Change 2025
 
-**FINALIST**
+<br>
 
-Top **200 participants**
+<b>FINALIST</b>
+
+<br><br>
+
+<strong>Top 200</strong>
+
+<br>
+
+participants
+
+</div>
 
 </td>
 
 </tr>
 
+<!-- ========================= ROW 2 =========================== -->
+
 <tr>
 
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
-### 🚀
+<div align="center">
 
-## Adobe India Hackathon 2025
+### 🚀 Adobe India Hackathon 2025
 
-**TEAM LEAD**
+<br>
 
-Semi-Finals  
-**2000+ teams**
+<b>TEAM LEAD</b>
+
+<br><br>
+
+<strong>Semi-Finals</strong>
+
+<br>
+
+2000+ teams
+
+</div>
 
 </td>
 
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
-### 💡
+<div align="center">
 
-## Smart India Hackathon 2025
+### 💡 Smart India Hackathon 2025
 
-**INSTITUTE SEMI-FINALIST**
+<br>
 
-Top **40 / 250+ teams**
+<b>INSTITUTE SEMI-FINALIST</b>
+
+<br><br>
+
+<strong>Top 40 / 250+</strong>
+
+<br>
+
+teams
+
+</div>
 
 </td>
 
 </tr>
 
 </table>
+
+<br>
+
+---
+
+<!-- ============================================================ -->
+<!--                    ACHIEVEMENT SUMMARY                       -->
+<!-- ============================================================ -->
+
+<div align="center">
+
+### ✨ Competitive • Collaborative • Consistent
+
+<br>
+
+<img src="https://img.shields.io/badge/HACKATHONS-4-00ADB5?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/FINALIST-2-087F8C?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/TEAM%20LEAD-1-183642?style=for-the-badge"/>
+
+</div>
+
+<br>
+
 
 ---
 
