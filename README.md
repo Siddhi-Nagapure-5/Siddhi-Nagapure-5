@@ -587,9 +587,8 @@ Top **40 / 250+ teams**
 </div>
 
 ---
-
 <!-- ============================================================ -->
-<!--                     PROBLEM SOLVING                           -->
+<!--                    PROBLEM SOLVING                          -->
 <!-- ============================================================ -->
 
 <div align="center">
@@ -603,23 +602,25 @@ Top **40 / 250+ teams**
 <br>
 
 <img src="https://img.shields.io/badge/DATA%20STRUCTURES%20%26%20ALGORITHMS-00ADB5?style=for-the-badge"/>
+&nbsp;
 <img src="https://img.shields.io/badge/COMPETITIVE%20PROGRAMMING-087F8C?style=for-the-badge"/>
+&nbsp;
 <img src="https://img.shields.io/badge/PROBLEM%20SOLVING-183642?style=for-the-badge"/>
 
 <br><br>
 
 <a href="https://www.leetcode.com/achievement.50">
-
 <img src="https://img.shields.io/badge/VIEW%20MY%20LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-
 </a>
 
 </div>
 
+<br>
+
 ---
 
 <!-- ============================================================ -->
-<!--                     GITHUB STATS                             -->
+<!--                    GITHUB STATISTICS                         -->
 <!-- ============================================================ -->
 
 <div align="center">
@@ -651,26 +652,25 @@ width="60%"
 
 </div>
 
+<br>
+
 ---
 
 <!-- ============================================================ -->
-<!--                  CONTRIBUTION ACTIVITY                       -->
+<!--              CONTRIBUTION & CODING ACTIVITY                  -->
 <!-- ============================================================ -->
 
 <div align="center">
 
-# 📈 Contribution Activity
-<!-- ============================================================ -->
-<!--              PROBLEM SOLVING & ACTIVITY                      -->
-<!-- ============================================================ -->
+# 📈 Contribution & Coding Activity
 
-<div align="center">
-
-## 📈 Problem Solving & Contribution Activity
+<p>
+<b>Building consistently. Solving consistently. Learning consistently.</b>
+</p>
 
 <br>
 
-### 💻 GitHub
+## 💻 GitHub Activity
 
 <img
 src="https://github-readme-activity-graph.vercel.app/graph?username=Siddhi-Nagapure-5&bg_color=00000000&color=00ADB5&line=00ADB5&point=FFFFFF&area=true&hide_border=true"
@@ -679,28 +679,81 @@ width="95%"
 
 <br><br>
 
+---
+
+## 🟠 LeetCode & 🔵 Codeforces
+
+<br>
+
+<table>
+<tr>
+
+<td align="center" width="50%">
+
 ### 🟠 LeetCode
+
+<br>
 
 <img
 src="https://leetcard.jacoblin.cool/achievement.50?theme=dark&font=Baloo&ext=heatmap"
-width="70%"
+width="95%"
 />
 
 <br><br>
 
+<a href="https://leetcode.com/achievement.50/">
+<img
+src="https://img.shields.io/badge/VIEW%20PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
+/>
+</a>
+
+</td>
+
+<td align="center" width="50%">
+
 ### 🔵 Codeforces
 
-<img
-src="https://codeforces-readme-stats.vercel.app/api/card?username=achievement_50&theme=github_dark"
-width="70%"
-/>
-
-</div>
 <br>
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Siddhi-Nagapure-5&bg_color=00000000&color=00ADB5&line=00ADB5&point=FFFFFF&area=true&hide_border=true"
+src="https://codeforces-readme-stats.vercel.app/api/card?username=achievement_50&theme=github_dark"
+width="95%"
 />
+
+<br><br>
+
+<a href="https://codeforces.com/profile/achievement_50">
+<img
+src="https://img.shields.io/badge/VIEW%20PROFILE-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"
+/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
+
+---
+
+<!-- ============================================================ -->
+<!--                       ACTIVITY SUMMARY                        -->
+<!-- ============================================================ -->
+
+<div align="center">
+
+### ⚡ Build • Solve • Learn • Improve
+
+<br>
+
+<img src="https://img.shields.io/badge/GITHUB-CONTRIBUTIONS-00ADB5?style=flat-square&logo=github&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/LEETCODE-DSA%20%26%20ALGORITHMS-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
+&nbsp;
+<img src="https://img.shields.io/badge/CODEFORCES-COMPETITIVE%20PROGRAMMING-1F8ACB?style=flat-square"/>
 
 </div>
 
