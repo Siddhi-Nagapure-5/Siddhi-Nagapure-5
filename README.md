@@ -459,9 +459,8 @@ Explainability
 <br>
 
 ---
-
 <!-- ============================================================ -->
-<!--                       ACHIEVEMENTS                            -->
+<!--                       ACHIEVEMENTS                           -->
 <!-- ============================================================ -->
 
 <div align="center">
@@ -472,115 +471,37 @@ Explainability
 <b>Hackathons, competitions and milestones.</b>
 </p>
 
-</div>
-
 <br>
-
-<table width="100%">
-
-<!-- ========================= ROW 1 =========================== -->
-
-<tr>
-
-<td width="50%" valign="top">
-
-<div align="center">
 
 ### 🥇 Odoo × VIT Pune Hackathon 2026
 
-<br>
-
-<b>FINALIST</b>
-
-<br><br>
-
-<strong>Top 78 / 1500+</strong>
+**FINALIST**  
+`Top 78 / 1500+ teams`
 
 <br>
-
-teams
-
-</div>
-
-</td>
-
-<td width="50%" valign="top">
-
-<div align="center">
 
 ### 🏆 Mastercard Code for Change 2025
 
-<br>
-
-<b>FINALIST</b>
-
-<br><br>
-
-<strong>Top 200</strong>
+**FINALIST**  
+`Top 200 participants`
 
 <br>
-
-participants
-
-</div>
-
-</td>
-
-</tr>
-
-<!-- ========================= ROW 2 =========================== -->
-
-<tr>
-
-<td width="50%" valign="top">
-
-<div align="center">
 
 ### 🚀 Adobe India Hackathon 2025
 
-<br>
-
-<b>TEAM LEAD</b>
-
-<br><br>
-
-<strong>Semi-Finals</strong>
+**TEAM LEAD**  
+`Semi-Finals • 2000+ teams`
 
 <br>
-
-2000+ teams
-
-</div>
-
-</td>
-
-<td width="50%" valign="top">
-
-<div align="center">
 
 ### 💡 Smart India Hackathon 2025
 
-<br>
-
-<b>INSTITUTE SEMI-FINALIST</b>
-
-<br><br>
-
-<strong>Top 40 / 250+</strong>
+**INSTITUTE SEMI-FINALIST**  
+`Top 40 / 250+ teams`
 
 <br>
-
-teams
 
 </div>
-
-</td>
-
-</tr>
-
-</table>
-
-<br>
 
 ---
 
