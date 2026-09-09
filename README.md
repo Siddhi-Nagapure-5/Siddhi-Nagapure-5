@@ -595,37 +595,6 @@ Explainability
 </div>
 
 ---
-<!-- ============================================================ -->
-<!--                    PROBLEM SOLVING                          -->
-<!-- ============================================================ -->
-
-<div align="center">
-
-# 🧠 Problem Solving
-
-<p>
-<b>Think deeply. Optimize relentlessly. Build correctly.</b>
-</p>
-
-<br>
-
-<img src="https://img.shields.io/badge/DATA%20STRUCTURES%20%26%20ALGORITHMS-00ADB5?style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/badge/COMPETITIVE%20PROGRAMMING-087F8C?style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/badge/PROBLEM%20SOLVING-183642?style=for-the-badge"/>
-
-<br><br>
-
-<a href="https://www.leetcode.com/achievement_50">
-<img src="https://img.shields.io/badge/VIEW%20MY%20LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-</div>
-
-<br>
-
----
 
 <!-- ============================================================ -->
 <!--                    GITHUB STATISTICS                         -->
