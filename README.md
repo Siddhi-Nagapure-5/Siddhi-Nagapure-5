@@ -458,7 +458,6 @@ Explainability
 
 <br>
 
----
 <!-- ============================================================ -->
 <!--                       ACHIEVEMENTS                           -->
 <!-- ============================================================ -->
@@ -467,44 +466,16 @@ Explainability
 
 # 🏆 Achievements
 
-<p>
-<b>Hackathons, competitions and milestones.</b>
-</p>
+<p><b>Hackathons, competitions & milestones</b></p>
 
-<br>
-
-### 🥇 Odoo × VIT Pune Hackathon 2026
-
-**FINALIST**  
-`Top 78 / 1500+ teams`
-
-<br>
-
-### 🏆 Mastercard Code for Change 2025
-
-**FINALIST**  
-`Top 200 participants`
-
-<br>
-
-### 🚀 Adobe India Hackathon 2025
-
-**TEAM LEAD**  
-`Semi-Finals • 2000+ teams`
-
-<br>
-
-### 💡 Smart India Hackathon 2025
-
-**INSTITUTE SEMI-FINALIST**  
-`Top 40 / 250+ teams`
-
-<br>
+🥇 <b>Odoo × VIT Pune Hackathon 2026</b> — Finalist · Top 78 / 1500+  
+🏆 <b>Mastercard Code for Change 2025</b> — Finalist · Top 200  
+🚀 <b>Adobe India Hackathon 2025</b> — Team Lead · Semi-Finals · 2000+ teams  
+💡 <b>Smart India Hackathon 2025</b> — Institute Semi-Finalist · Top 40 / 250+
 
 </div>
 
 ---
-
 <!-- ============================================================ -->
 <!--                    ACHIEVEMENT SUMMARY                       -->
 <!-- ============================================================ -->
