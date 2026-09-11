@@ -513,31 +513,36 @@ Android features • Resource management • ML functionality • Data preproces
 # 📊 GitHub Statistics
 
 <p>
-<b>A snapshot of my development activity.</b>
+<b>Live stats from my GitHub activity.</b>
 </p>
 
 <br>
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=Siddhi-Nagapure-5&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
+src="https://github-readme-stats.vercel.app/api?username=Siddhi-Nagapure-5&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;rank_icon=github&amp;include_all_commits=true&amp;count_private=true"
 width="49%"
 />
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhi-Nagapure-5&layout=compact&theme=tokyonight&hide_border=true"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhi-Nagapure-5&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true"
 width="42%"
 />
 
 <br><br>
 
 <img
-src="https://github-readme-streak-stats.herokuapp.com/?user=Siddhi-Nagapure-5&theme=tokyonight&hide_border=true"
+src="https://streak-stats.demolab.com?user=Siddhi-Nagapure-5&amp;theme=tokyonight&amp;hide_border=true"
 width="60%"
 />
 
-</div>
+<br><br>
 
-<br>
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=Siddhi-Nagapure-5&amp;bg_color=00000000&amp;color=00ADB5&amp;line=00ADB5&amp;point=FFFFFF&amp;area=true&amp;hide_border=true"
+width="95%"
+/>
+
+</div>
 
 ---
 
