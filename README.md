@@ -363,100 +363,37 @@ Explainability
 </table>
 
 ---
-<!-- ============================================================ -->
-<!--                         EXPERIENCE                           -->
-<!-- ============================================================ -->
+<!-- ======================= EXPERIENCE ======================== -->
 
 <div align="center">
 
 # 💼 Experience
 
-<p>
-<b>Learning by building, experimenting and working on real problems.</b>
-</p>
-
-</div>
+<p><b>Learning by building and solving real-world problems.</b></p>
 
 <br>
 
-<table width="100%">
-<tr>
-
-<!-- ====================== EXPERIENCE 1 ======================= -->
-
-<td width="50%" valign="top">
-
-<div align="center">
-
-## 🤖 AI & DS Intern
-
-### <b>Infer Lab — PICT Pune</b>
+### 🤖 AI & DS Intern — Infer Lab, PICT Pune
 
 `Jan 2026 – Mar 2026`
 
-</div>
+<b>Explainable AutoML Pipeline</b>  
+Data curation • Feature engineering • Model selection • 5-fold CV • SHAP
 
 <br>
 
-<b>Worked on an Explainable AutoML pipeline</b> involving:
+---
 
-<br><br>
-
-• Automated <b>data curation</b>  
-• <b>Feature engineering</b>  
-• <b>Model selection</b>  
-• <b>5-fold cross-validation</b>  
-• <b>SHAP-based explanations</b>
-
-<br><br>
-
-<div align="center">
-
-`AutoML` • `Machine Learning` • `SHAP`
-
-</div>
-
-</td>
-
-<!-- ====================== EXPERIENCE 2 ======================= -->
-
-<td width="50%" valign="top">
-
-<div align="center">
-
-## 📱 Android & ML Intern
-
-### <b>Sumago Infotech</b>
+### 📱 Android & ML Intern — Sumago Infotech
 
 `Jun 2023 – Aug 2023`
 
-</div>
-
-<br>
-
-<b>Worked across Android and ML-driven application workflows</b> involving:
-
-<br><br>
-
-• <b>Android application features</b>  
-• Lifecycle-aware <b>resource management</b>  
-• <b>ML-driven functionality</b>  
-• <b>Data preprocessing workflows</b>
-
-<br><br>
-
-<div align="center">
-
-`Android` • `Machine Learning` • `Data Processing`
+<b>Android & ML Development</b>  
+Android features • Resource management • ML functionality • Data preprocessing
 
 </div>
 
-</td>
-
-</tr>
-</table>
-
-<br>
+---
 
 <!-- ============================================================ -->
 <!--                       ACHIEVEMENTS                           -->
