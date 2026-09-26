@@ -117,86 +117,54 @@ What interests me most is understanding **how systems work internally**, rather 
 
 ### <i>What I'm actively getting better at.</i>
 
-</div>
-
 <br>
 
-<div align="center">
-
-## 🗄️ Database Engineering
-
-<img src="https://img.shields.io/badge/WAL-161B22?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/ARIES-161B22?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Recovery-161B22?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Transactions-161B22?style=for-the-badge&logoColor=white" />
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-## 🤖 AI / ML
-
-<img src="https://img.shields.io/badge/AutoML-161B22?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/SHAP-161B22?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/ML%20Pipelines-161B22?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Model%20Selection-161B22?style=for-the-badge&logoColor=white" />
+<div>
+  
+  <b>🗄️ Database Engineering</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>🤖 AI / ML</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>⚙️ Backend Systems</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>🧠 Problem Solving</b>
 
 </div>
 
 <br>
 
----
+<div>
 
-<div align="center">
+  <code>WAL</code>
+  <code>ARIES</code>
+  <code>Recovery</code>
+  <code>Transactions</code>
 
-## ⚙️ Backend Systems
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
-<img src="https://img.shields.io/badge/REST%20APIs-161B22?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Microservices-161B22?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/System%20Design-161B22?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Scalability-161B22?style=for-the-badge&logoColor=white" />
+  <code>AutoML</code>
+  <code>SHAP</code>
+  <code>ML Pipelines</code>
+  <code>Model Selection</code>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <code>REST APIs</code>
+  <code>Microservices</code>
+  <code>System Design</code>
+  <code>Scalability</code>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <code>DSA</code>
+  <code>Algorithms</code>
+  <code>Optimization</code>
+  <code>Competitive Programming</code>
 
 </div>
-
-<br>
-
----
-
-<div align="center">
-
-## 🧠 Problem Solving
-
-<img src="https://img.shields.io/badge/DSA-161B22?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Algorithms-161B22?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Optimization-161B22?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Competitive%20Programming-161B22?style=for-the-badge&logoColor=white" />
 
 </div>
 ---
-
-<!-- ============================================================ -->
-<!--                    FEATURED PROJECTS                          -->
-<!-- ============================================================ -->
-
-<div align="center">
-
-# 🚀 Featured Engineering Projects
-
-<p>
-<b>Systems I built to understand how things actually work.</b>
-</p>
-
-</div>
-
-<br>
-
-<table width="100%">
-
-<tr>
 
 <!-- ===================== AEGISDB ===================== -->
 
