@@ -136,43 +136,42 @@ What interests me most is understanding **how systems work internally**, rather 
 🧠 <b>Problem Solving</b> — `DSA` `Algorithms` `Optimization` `Competitive Programming`
 
 </div>
----
+<hr>
+<!-- ===================== FEATURED PROJECTS ===================== -->
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<br>
+
+<table width="100%">
+<tr>
+
 <!-- ===================== AEGISDB ===================== -->
 
 <td width="50%" valign="top">
 
 <div align="center">
 
-# 🔐 AegisDB
+### 🔐 AegisDB
+**Self-Recovering Database Engine**
 
-### Self-Recovering Database Engine
-
-<br>
-
-<img src="https://img.shields.io/badge/DATABASE-ENGINEERING-00ADB5?style=flat-square"/>
-<img src="https://img.shields.io/badge/ARIES-RECOVERY-087F8C?style=flat-square"/>
-<img src="https://img.shields.io/badge/ACID-TRANSACTIONS-183642?style=flat-square"/>
+<img src="https://img.shields.io/badge/WAL-00ADB5?style=flat-square"/>
+<img src="https://img.shields.io/badge/ARIES-087F8C?style=flat-square"/>
+<img src="https://img.shields.io/badge/ACID-183642?style=flat-square"/>
 
 </div>
 
-<br>
+> Fault-tolerant database engine focused on durability, crash recovery and consistency.
 
-**A fault-tolerant database engine focused on transaction durability, crash recovery and consistency.**
-
-### ⚙️ Engineering Highlights
-
+**Highlights**
 - Write-Ahead Logging
+- ARIES crash recovery
 - Checkpointing
-- ARIES-based crash recovery
-- Storage & recovery components
-- ACID-compliant recovery
-- Failure consistency
-
-<br>
+- ACID transactions
 
 <div align="center">
 
-`WAL` &nbsp; `ARIES` &nbsp; `ACID` &nbsp; `Recovery`
+`WAL` `ARIES` `ACID` `Recovery`
 
 </div>
 
@@ -184,98 +183,62 @@ What interests me most is understanding **how systems work internally**, rather 
 
 <div align="center">
 
-# 🌊 NexaGlint
+### 🌊 NexaGlint
+**Lakehouse Metadata Query Engine**
 
-### Lakehouse Metadata Query Engine
-
-<br>
-
-<img src="https://img.shields.io/badge/AMAZON-S3-FF9900?style=flat-square"/>
-<img src="https://img.shields.io/badge/SQL-QUERYING-336791?style=flat-square"/>
-<img src="https://img.shields.io/badge/DATA-LAKEHOUSE-00ADB5?style=flat-square"/>
+<img src="https://img.shields.io/badge/S3-FF9900?style=flat-square"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square"/>
+<img src="https://img.shields.io/badge/Lakehouse-00ADB5?style=flat-square"/>
 
 </div>
 
-<br>
+> Metadata exploration and query engine for large-scale data lakes on Amazon S3.
 
-**A metadata exploration and query engine for large-scale data lakes stored on Amazon S3.**
-
-### ⚙️ Engineering Highlights
-
+**Highlights**
 - Schema discovery
-- Snapshot inspection
-- Dataset exploration
 - Metadata indexing
-- Schema introspection
+- Snapshot inspection
 - SQL over object storage
-
-<br>
 
 <div align="center">
 
-`S3` &nbsp; `SQL` &nbsp; `Metadata` &nbsp; `Lakehouse`
+`S3` `SQL` `Metadata` `Lakehouse`
 
 </div>
 
 </td>
 
 </tr>
-
-<!-- ===================== AUTOML ===================== -->
 
 <tr>
 
-<td colspan="2" valign="top">
+<!-- ===================== AUTOML ===================== -->
+
+<td colspan="2">
 
 <div align="center">
 
-# 🤖 Explainable AutoML Pipeline
+### 🤖 Explainable AutoML Pipeline
+**Automated Machine Learning + Explainable AI**
 
-### Automated Machine Learning + Explainable AI
-
-<br>
-
-<img src="https://img.shields.io/badge/AUTOML-MACHINE%20LEARNING-00ADB5?style=flat-square"/>
-<img src="https://img.shields.io/badge/SHAP-EXPLAINABILITY-FF6F00?style=flat-square"/>
-<img src="https://img.shields.io/badge/PYTHON-ML-3776AB?style=flat-square"/>
-
-<br><br>
-
-An automated ML pipeline covering:
+<img src="https://img.shields.io/badge/AutoML-00ADB5?style=flat-square"/>
+<img src="https://img.shields.io/badge/SHAP-FF6F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square"/>
 
 <br>
 
-<b>
-Data Preprocessing
-→
-Feature Engineering
-→
-Model Selection
-→
-Hyperparameter Optimization
-→
-Explainability
-</b>
+Automated pipeline for **preprocessing → feature engineering → model selection → optimization → explainability**
 
 <br><br>
 
-`5-Fold Cross Validation`
-&nbsp; • &nbsp;
-`SHAP`
-&nbsp; • &nbsp;
-`Feature Engineering`
-&nbsp; • &nbsp;
-`Model Evaluation`
+`5-Fold CV` &nbsp; `SHAP` &nbsp; `Feature Engineering` &nbsp; `Model Evaluation`
 
 </div>
 
 </td>
 
 </tr>
-
 </table>
-
----
 <!-- ======================= EXPERIENCE ======================== -->
 
 <div align="center">
