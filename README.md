@@ -382,31 +382,19 @@ src="https://img.shields.io/badge/VIEW%20PROFILE-1F8ACB?style=for-the-badge&logo
 
 ---
 
----
 <!-- ===================== VISION ===================== -->
 
 <div align="center">
 
-## 🎯 Vision
+### 🎯 Vision
 
-<i>The principles I want to carry into engineering.</i>
+<i>Build systems, understand how they work, solve problems simply, and keep improving as an engineer.</i>
 
-<br><br>
-
-<b>BUILD</b> — Turning ideas into working systems.  
 <br>
-<b>UNDERSTAND</b> — Learning how technology works underneath.  
-<br>
-<b>SOLVE</b> — Breaking difficult problems into simpler ones.  
-<br>
-<b>IMPROVE</b> — Continuously becoming a better engineer.
-
-<br><br>
 
 > **"Don't just use systems. Understand them. Build them. Improve them."**
 
 </div>
-
 
 ---
 
