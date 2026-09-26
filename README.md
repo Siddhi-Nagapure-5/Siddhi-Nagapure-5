@@ -322,15 +322,6 @@ Automated pipeline for **preprocessing → feature engineering → model selecti
 
 <br>
 
-## 💻 GitHub Activity
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Siddhi-Nagapure-5&bg_color=00000000&color=00ADB5&line=00ADB5&point=FFFFFF&area=true&hide_border=true"
-width="95%"
-/>
-
-<br><br>
-
 ---
 
 ## 🟠 LeetCode & 🔵 Codeforces
@@ -347,7 +338,7 @@ width="95%"
 <br>
 
 <img
-src="https://leetcard.jacoblin.cool/achievement_50?theme=dark&font=Baloo&ext=heatmap"
+src="https://leetcard.jacoblin.cool/siddhinagapure155?theme=dark&font=Baloo&ext=heatmap"
 width="95%"
 />
 
