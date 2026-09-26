@@ -286,44 +286,23 @@ Automated pipeline for **preprocessing → feature engineering → model selecti
 <img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/1c9e88cd-4790-40eb-9572-24a24d569653" />
 
 ---
-
-<!-- ============================================================ -->
-<!--                    GITHUB STATISTICS                         -->
-<!-- ============================================================ -->
+<!-- ===================== GITHUB STATISTICS ===================== -->
 
 <div align="center">
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
-<p>
-<b>Live stats from my GitHub activity.</b>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Siddhi-Nagapure-5&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhi-Nagapure-5&layout=compact&theme=tokyonight&hide_border=true" width="42%"/>
 
 <br>
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=Siddhi-Nagapure-5&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;rank_icon=github&amp;include_all_commits=true&amp;count_private=true"
-width="49%"
-/>
+<img src="https://streak-stats.demolab.com?user=Siddhi-Nagapure-5&theme=tokyonight&hide_border=true" width="60%"/>
 
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhi-Nagapure-5&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true"
-width="42%"
-/>
+<br>
 
-<br><br>
-
-<img
-src="https://streak-stats.demolab.com?user=Siddhi-Nagapure-5&amp;theme=tokyonight&amp;hide_border=true"
-width="60%"
-/>
-
-<br><br>
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Siddhi-Nagapure-5&amp;bg_color=00000000&amp;color=00ADB5&amp;line=00ADB5&amp;point=FFFFFF&amp;area=true&amp;hide_border=true"
-width="95%"
-/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddhi-Nagapure-5&theme=tokyo-night&hide_border=true" width="95%"/>
 
 </div>
 
