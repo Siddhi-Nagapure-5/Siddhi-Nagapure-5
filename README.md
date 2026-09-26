@@ -283,68 +283,7 @@ Automated pipeline for **preprocessing → feature engineering → model selecti
 <!-- ============================================================ -->
 <!--                    TECHNOLOGY STACK                           -->
 <!-- ============================================================ -->
-
-<div align="center">
-
-# 🛠️ Languages, Frameworks & Tools
-
-<p>
-<b>The technologies I use to build and experiment.</b>
-</p>
-
-</div>
-
----
-
-### 💻 Languages
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts" />
-
-</div>
-
-<br>
-
----
-
-### ⚙️ Backend & Frameworks
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=spring,flask,nodejs,nextjs,kubernetes" />
-
-</div>
-
-<br>
-
----
-
-### 🗄️ Databases & Data Systems
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/DATABASE%20INTERNALS-00ADB5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LAKEHOUSE%20ARCHITECTURE-087F8C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/METADATA%20SYSTEMS-183642?style=for-the-badge"/>
-
-</div>
-
-<br>
-
----
-
-### ☁️ Cloud, DevOps & Developer Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github,postman" />
-
-</div>
+<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/1c9e88cd-4790-40eb-9572-24a24d569653" />
 
 ---
 
