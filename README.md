@@ -401,34 +401,33 @@ src="https://img.shields.io/badge/VIEW%20PROFILE-1F8ACB?style=for-the-badge&logo
 <!-- ============================================================ -->
 <!--                        CONNECT                               -->
 <!-- ============================================================ -->
+<!-- ===================== LET'S CONNECT ===================== -->
 
 <div align="center">
 
-# 🤝 Let's Connect
+### 🤝 Let's Connect
 
-<p>
-Interested in <b>AI, backend engineering, systems, databases, DSA</b>
+Interested in <b>AI, Backend, Systems, Databases, or DSA?</b>
 <br>
-or building something interesting?
-</p>
+Let's connect and build something interesting.
 
 <br>
 
 <a href="https://www.linkedin.com/in/Siddhi-nagapure-achievement">
-<img src="https://img.shields.io/badge/CONNECT%20ON-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
-
 &nbsp;
-
 <a href="https://siddhi-nagapure.vercel.app/">
-<img src="https://img.shields.io/badge/EXPLORE-MY%20PORTFOLIO-00ADB5?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-00ADB5?style=flat-square&logo=googlechrome&logoColor=white"/>
 </a>
-
 &nbsp;
-
 <a href="mailto:siddhinagapure155@gmail.com">
-<img src="https://img.shields.io/badge/SEND%20AN-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
+
+</div>
+
+---
 
 <br><br>
 
