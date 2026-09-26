@@ -111,28 +111,32 @@ What interests me most is understanding **how systems work internally**, rather 
 <!-- ============================================================ -->
 <!--                    CURRENT FOCUS                              -->
 <!-- ============================================================ -->
+---
+
 <div align="center">
 
 # 🎯 Currently Building & Learning
 
-<p><i>What I'm actively getting better at.</i></p>
+<i>What I'm actively getting better at.</i>
+
+<br><br>
+
+🗄️ <b>Database Engineering</b> — `WAL` `ARIES` `Recovery` `Transactions`
 
 <br>
 
-### 🗄️ Database Engineering
-`WAL` `ARIES` `Recovery` `Transactions`
+🤖 <b>AI / ML</b> — `AutoML` `SHAP` `ML Pipelines` `Model Selection`
 
-### 🤖 AI / ML
-`AutoML` `SHAP` `ML Pipelines` `Model Selection`
+<br>
 
-### ⚙️ Backend Systems
-`REST APIs` `Microservices` `System Design` `Scalability`
+⚙️ <b>Backend Systems</b> — `REST APIs` `Microservices` `System Design` `Scalability`
 
-### 🧠 Problem Solving
-`DSA` `Algorithms` `Optimization` `Competitive Programming`
+<br>
+
+🧠 <b>Problem Solving</b> — `DSA` `Algorithms` `Optimization` `Competitive Programming`
 
 </div>
-
+---
 <!-- ===================== AEGISDB ===================== -->
 
 <td width="50%" valign="top">
