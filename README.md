@@ -111,97 +111,71 @@ What interests me most is understanding **how systems work internally**, rather 
 <!-- ============================================================ -->
 <!--                    CURRENT FOCUS                              -->
 <!-- ============================================================ -->
-
 <div align="center">
 
 # 🎯 Currently Building & Learning
 
-<p>
-<b>What I'm actively getting better at.</b>
-</p>
+### <i>What I'm actively getting better at.</i>
 
 </div>
 
 <br>
 
-<table width="100%">
-<tr>
+<div align="center">
 
-<td align="center" width="25%" valign="top">
+## 🗄️ Database Engineering
 
-### 🗄️
+<img src="https://img.shields.io/badge/WAL-161B22?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/ARIES-161B22?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Recovery-161B22?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Transactions-161B22?style=for-the-badge&logoColor=white" />
 
-## Database Engineering
-
-<br>
-
-`WAL`
-
-`ARIES`
-
-`Recovery`
-
-`Transactions`
-
-</td>
-
-<td align="center" width="25%" valign="top">
-
-### 🤖
-
-## AI / ML
+</div>
 
 <br>
 
-`AutoML`
+---
 
-`SHAP`
+<div align="center">
 
-`ML Pipelines`
+## 🤖 AI / ML
 
-`Model Selection`
+<img src="https://img.shields.io/badge/AutoML-161B22?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/SHAP-161B22?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/ML%20Pipelines-161B22?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Model%20Selection-161B22?style=for-the-badge&logoColor=white" />
 
-</td>
-
-<td align="center" width="25%" valign="top">
-
-### ⚙️
-
-## Backend Systems
+</div>
 
 <br>
 
-`REST APIs`
+---
 
-`Microservices`
+<div align="center">
 
-`System Design`
+## ⚙️ Backend Systems
 
-`Scalability`
+<img src="https://img.shields.io/badge/REST%20APIs-161B22?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Microservices-161B22?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/System%20Design-161B22?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Scalability-161B22?style=for-the-badge&logoColor=white" />
 
-</td>
-
-<td align="center" width="25%" valign="top">
-
-### 🧠
-
-## Problem Solving
+</div>
 
 <br>
 
-`DSA`
+---
 
-`Algorithms`
+<div align="center">
 
-`Optimization`
+## 🧠 Problem Solving
 
-`Competitive Programming`
+<img src="https://img.shields.io/badge/DSA-161B22?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Algorithms-161B22?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Optimization-161B22?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Competitive%20Programming-161B22?style=for-the-badge&logoColor=white" />
 
-</td>
-
-</tr>
-</table>
-
+</div>
 ---
 
 <!-- ============================================================ -->
