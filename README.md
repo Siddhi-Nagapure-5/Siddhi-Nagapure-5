@@ -115,56 +115,23 @@ What interests me most is understanding **how systems work internally**, rather 
 
 # 🎯 Currently Building & Learning
 
-### <i>What I'm actively getting better at.</i>
+<p><i>What I'm actively getting better at.</i></p>
 
 <br>
 
-<div>
-  
-  <b>🗄️ Database Engineering</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>🤖 AI / ML</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>⚙️ Backend Systems</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>🧠 Problem Solving</b>
+### 🗄️ Database Engineering
+`WAL` `ARIES` `Recovery` `Transactions`
+
+### 🤖 AI / ML
+`AutoML` `SHAP` `ML Pipelines` `Model Selection`
+
+### ⚙️ Backend Systems
+`REST APIs` `Microservices` `System Design` `Scalability`
+
+### 🧠 Problem Solving
+`DSA` `Algorithms` `Optimization` `Competitive Programming`
 
 </div>
-
-<br>
-
-<div>
-
-  <code>WAL</code>
-  <code>ARIES</code>
-  <code>Recovery</code>
-  <code>Transactions</code>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <code>AutoML</code>
-  <code>SHAP</code>
-  <code>ML Pipelines</code>
-  <code>Model Selection</code>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <code>REST APIs</code>
-  <code>Microservices</code>
-  <code>System Design</code>
-  <code>Scalability</code>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <code>DSA</code>
-  <code>Algorithms</code>
-  <code>Optimization</code>
-  <code>Competitive Programming</code>
-
-</div>
-
-</div>
----
 
 <!-- ===================== AEGISDB ===================== -->
 
