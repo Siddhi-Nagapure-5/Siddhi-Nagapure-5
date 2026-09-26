@@ -291,10 +291,11 @@ Automated pipeline for **preprocessing → feature engineering → model selecti
 <div align="center">
 
 ## 📊 GitHub Statistics
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Siddhi-Nagapure-5&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Siddhi-Nagapure-5&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github&hide_title=true" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhi-Nagapure-5&layout=compact&theme=tokyonight&hide_border=true" width="42%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhi-Nagapure-5&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" width="42%"/>
 
 <br>
 
@@ -302,7 +303,7 @@ Automated pipeline for **preprocessing → feature engineering → model selecti
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddhi-Nagapure-5&theme=tokyo-night&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddhi-Nagapure-5&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="95%"/>
 
 </div>
 
