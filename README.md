@@ -239,38 +239,6 @@ Automated pipeline for **preprocessing → feature engineering → model selecti
 
 </tr>
 </table>
-<!-- ======================= EXPERIENCE ======================== -->
-
-<div align="center">
-
-# 💼 Experience
-
-<p><b>Learning by building and solving real-world problems.</b></p>
-
-<br>
-
-### 🤖 AI & DS Intern — Infer Lab, PICT Pune
-
-`Jan 2026 – Mar 2026`
-
-<b>Explainable AutoML Pipeline</b>  
-Data curation • Feature engineering • Model selection • 5-fold CV • SHAP
-
-<br>
-
----
-
-### 📱 Android & ML Intern — Sumago Infotech
-
-`Jun 2023 – Aug 2023`
-
-<b>Android & ML Development</b>  
-Android features • Resource management • ML functionality • Data preprocessing
-
-</div>
-
----
-
 <!-- ============================================================ -->
 <!--                       ACHIEVEMENTS                           -->
 <!-- ============================================================ -->
