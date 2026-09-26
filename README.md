@@ -382,93 +382,31 @@ src="https://img.shields.io/badge/VIEW%20PROFILE-1F8ACB?style=for-the-badge&logo
 
 ---
 
-<!-- ============================================================ -->
-<!--                       ACTIVITY SUMMARY                        -->
-<!-- ============================================================ -->
-
-<div align="center">
-
-### ⚡ Build • Solve • Learn • Improve
-
-<br>
-
-<img src="https://img.shields.io/badge/GITHUB-CONTRIBUTIONS-00ADB5?style=flat-square&logo=github&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/LEETCODE-DSA%20%26%20ALGORITHMS-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
-&nbsp;
-<img src="https://img.shields.io/badge/CODEFORCES-COMPETITIVE%20PROGRAMMING-1F8ACB?style=flat-square"/>
-
-</div>
-
 ---
-
-<!-- ============================================================ -->
-<!--                         VISION                               -->
-<!-- ============================================================ -->
+<!-- ===================== VISION ===================== -->
 
 <div align="center">
 
-# 🎯 Vision
+## 🎯 Vision
 
-<p>
-<b>The principles I want to carry into engineering.</b>
-</p>
+<i>The principles I want to carry into engineering.</i>
 
-</div>
+<br><br>
 
+<b>BUILD</b> — Turning ideas into working systems.  
 <br>
-
-<table width="100%">
-
-<tr>
-
-<td align="center" width="25%">
-
-## BUILD
-
-Turning ideas into  
-**working systems.**
-
-</td>
-
-<td align="center" width="25%">
-
-## UNDERSTAND
-
-Learning how  
-**technology works underneath.**
-
-</td>
-
-<td align="center" width="25%">
-
-## SOLVE
-
-Breaking difficult  
-**problems into simpler ones.**
-
-</td>
-
-<td align="center" width="25%">
-
-## IMPROVE
-
-Continuously becoming  
-**a better engineer.**
-
-</td>
-
-</tr>
-
-</table>
-
+<b>UNDERSTAND</b> — Learning how technology works underneath.  
 <br>
+<b>SOLVE</b> — Breaking difficult problems into simpler ones.  
+<br>
+<b>IMPROVE</b> — Continuously becoming a better engineer.
 
-<div align="center">
+<br><br>
 
 > **"Don't just use systems. Understand them. Build them. Improve them."**
 
 </div>
+
 
 ---
 
