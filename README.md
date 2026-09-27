@@ -119,7 +119,7 @@ What interests me most is understanding **how systems work internally**, rather 
 
 <i>What I'm actively getting better at.</i>
 
-<br><br>
+<br>
 
 🗄️ <b>Database Engineering</b> — `WAL` `ARIES` `Recovery` `Transactions`
 
