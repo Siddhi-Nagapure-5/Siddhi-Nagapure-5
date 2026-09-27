@@ -8,7 +8,7 @@
 src="https://capsule-render.vercel.app/api?type=waving&color=0:07131C,45:073B4C,100:00ADB5&height=230&section=header&text=Siddhi%20Nagapure&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Backend%20%7C%20Systems&descAlignY=62&descSize=19&animation=fadeIn"
 />
 
-<br>
+
 
 <h2>👋 Hey, I'm Siddhi Nagapure</h2>
 
