@@ -44,7 +44,7 @@ real-world engineering solutions.
 <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<br><br>
+<br>
 
 <img
 src="https://komarev.com/ghpvc/?username=Siddhi-Nagapure-5&label=PROFILE%20VIEWS&color=00ADB5&style=for-the-badge"
