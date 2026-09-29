@@ -430,7 +430,7 @@ Let's connect and build something interesting.
 
 ---
 
-<br><br>
+<br>
 
 <img
 src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1200&color=00ADB5&center=true&vCenter=true&width=760&lines=Code.+Learn.+Improve.;Building+Systems+That+Matter.;AI+%7C+Backend+%7C+Systems+%7C+DSA;Curious+Mind.+Builder's+Mindset.;Always+Learning.+Always+Building."
