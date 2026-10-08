@@ -438,7 +438,7 @@ src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1200&c
 />
 
 <br>
-
+<br>
 <img
 src="https://capsule-render.vercel.app/api?type=waving&color=0:07131C,45:073B4C,100:00ADB5&height=110&section=footer"
 />
