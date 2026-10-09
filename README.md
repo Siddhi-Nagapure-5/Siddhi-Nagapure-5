@@ -123,15 +123,13 @@ What interests me most is understanding **how systems work internally**, rather 
 
 🗄️ <b>Database Engineering</b> — `WAL` `ARIES` `Recovery` `Transactions`
 
-<br>
 
 🤖 <b>AI / ML</b> — `AutoML` `SHAP` `ML Pipelines` `Model Selection`
 
-<br>
+
 
 ⚙️ <b>Backend Systems</b> — `REST APIs` `Microservices` `System Design` `Scalability`
 
-<br>
 
 🧠 <b>Problem Solving</b> — `DSA` `Algorithms` `Optimization` `Competitive Programming`
 
