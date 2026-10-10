@@ -227,7 +227,6 @@ What interests me most is understanding **how systems work internally**, rather 
 
 Automated pipeline for **preprocessing → feature engineering → model selection → optimization → explainability**
 
-<br><br>
 
 `5-Fold CV` &nbsp; `SHAP` &nbsp; `Feature Engineering` &nbsp; `Model Evaluation`
 
