@@ -340,7 +340,7 @@ src="https://leetcard.jacoblin.cool/siddhinagapure155?theme=dark&font=Baloo&ext=
 width="95%"
 />
 
-<br><br>
+<br>
 
 <a href="https://leetcode.com/achievement_50/">
 <img
@@ -361,7 +361,7 @@ src="https://codeforces-readme-stats.vercel.app/api/card?username=achievement.50
 width="95%"
 />
 
-<br><br>
+<br>
 
 <a href="https://codeforces.com/profile/achievement.50">
 <img
