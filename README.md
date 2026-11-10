@@ -13,7 +13,7 @@ src="https://capsule-render.vercel.app/api?type=waving&color=0:07131C,45:073B4C,
 <h2>👋 Hey, I'm Siddhi Nagapure</h2>
 
 <p>
-<b>Software Engineer • AI/ML Enthusiast • Backend & Systems Builder</b>
+  <b>Software Engineer • AI/ML Engineer • Backend & Systems Builder</b>
 </p>
 
 <p>
